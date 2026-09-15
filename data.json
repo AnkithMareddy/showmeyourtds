@@ -71,25 +71,11 @@
   {
    "team": "kisiluv",
    "rank": 1,
-   "proj_w": 9.2,
-   "proj_l": 4.8,
-   "playoff_pct": 88.7,
-   "bye_pct": 55.9,
-   "title_pct": 28.3,
-   "is_user": false,
-   "actual_w": 0,
-   "actual_l": 0,
-   "pf": 0.0,
-   "faab": 100
-  },
-  {
-   "team": "ak81",
-   "rank": 2,
-   "proj_w": 7.7,
-   "proj_l": 6.3,
-   "playoff_pct": 66.3,
-   "bye_pct": 25.3,
-   "title_pct": 11.8,
+   "proj_w": 8.2,
+   "proj_l": 5.8,
+   "playoff_pct": 77.9,
+   "bye_pct": 37.8,
+   "title_pct": 22.9,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 0,
@@ -98,12 +84,12 @@
   },
   {
    "team": "uaintgotjuicehoeido",
-   "rank": 3,
-   "proj_w": 7.8,
-   "proj_l": 6.2,
-   "playoff_pct": 65.4,
-   "bye_pct": 23.3,
-   "title_pct": 11.6,
+   "rank": 2,
+   "proj_w": 7.9,
+   "proj_l": 6.1,
+   "playoff_pct": 66.6,
+   "bye_pct": 26.4,
+   "title_pct": 12.8,
    "is_user": true,
    "actual_w": 0,
    "actual_l": 0,
@@ -111,83 +97,13 @@
    "faab": 100
   },
   {
-   "team": "Ulyssesbo",
-   "rank": 4,
-   "proj_w": 7.6,
-   "proj_l": 6.4,
-   "playoff_pct": 59.8,
-   "bye_pct": 19.6,
-   "title_pct": 6.5,
-   "is_user": false,
-   "actual_w": 0,
-   "actual_l": 0,
-   "pf": 0.0,
-   "faab": 100
-  },
-  {
-   "team": "joshsandorra",
-   "rank": 5,
-   "proj_w": 7.4,
-   "proj_l": 6.6,
-   "playoff_pct": 55.5,
-   "bye_pct": 15.8,
-   "title_pct": 5.8,
-   "is_user": false,
-   "actual_w": 0,
-   "actual_l": 0,
-   "pf": 0.0,
-   "faab": 100
-  },
-  {
-   "team": "zachschumann",
-   "rank": 6,
-   "proj_w": 7.0,
-   "proj_l": 7.0,
-   "playoff_pct": 54.6,
-   "bye_pct": 13.6,
-   "title_pct": 10.3,
-   "is_user": false,
-   "actual_w": 0,
-   "actual_l": 0,
-   "pf": 0.0,
-   "faab": 100
-  },
-  {
-   "team": "ryancrabbe",
-   "rank": 7,
-   "proj_w": 7.0,
-   "proj_l": 7.0,
-   "playoff_pct": 51.9,
-   "bye_pct": 13.7,
-   "title_pct": 6.9,
-   "is_user": false,
-   "actual_w": 0,
-   "actual_l": 0,
-   "pf": 0.0,
-   "faab": 100
-  },
-  {
-   "team": "Gujju8",
-   "rank": 8,
-   "proj_w": 6.6,
-   "proj_l": 7.4,
-   "playoff_pct": 43.9,
-   "bye_pct": 10.9,
-   "title_pct": 5.4,
-   "is_user": false,
-   "actual_w": 0,
-   "actual_l": 0,
-   "pf": 0.0,
-   "faab": 100
-  },
-  {
-   "team": "arabdhab",
-   "rank": 9,
-   "proj_w": 6.6,
-   "proj_l": 7.4,
-   "playoff_pct": 39.6,
-   "bye_pct": 8.5,
-   "title_pct": 5.4,
+   "team": "ak81",
+   "rank": 3,
+   "proj_w": 7.7,
+   "proj_l": 6.3,
+   "playoff_pct": 65.5,
+   "bye_pct": 25.9,
+   "title_pct": 11.9,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 0,
@@ -196,12 +112,96 @@
   },
   {
    "team": "KamarasNuts",
-   "rank": 10,
+   "rank": 4,
+   "proj_w": 7.8,
+   "proj_l": 6.2,
+   "playoff_pct": 59.5,
+   "bye_pct": 20.3,
+   "title_pct": 7.1,
+   "is_user": false,
+   "actual_w": 0,
+   "actual_l": 0,
+   "pf": 0.0,
+   "faab": 100
+  },
+  {
+   "team": "Ulyssesbo",
+   "rank": 5,
+   "proj_w": 7.7,
+   "proj_l": 6.3,
+   "playoff_pct": 59.4,
+   "bye_pct": 20.5,
+   "title_pct": 7.7,
+   "is_user": false,
+   "actual_w": 0,
+   "actual_l": 0,
+   "pf": 0.0,
+   "faab": 100
+  },
+  {
+   "team": "joshsandorra",
+   "rank": 6,
+   "proj_w": 7.3,
+   "proj_l": 6.7,
+   "playoff_pct": 53.6,
+   "bye_pct": 17.2,
+   "title_pct": 6.5,
+   "is_user": false,
+   "actual_w": 0,
+   "actual_l": 0,
+   "pf": 0.0,
+   "faab": 100
+  },
+  {
+   "team": "zachschumann",
+   "rank": 7,
+   "proj_w": 7.0,
+   "proj_l": 7.0,
+   "playoff_pct": 52.2,
+   "bye_pct": 13.8,
+   "title_pct": 10.7,
+   "is_user": false,
+   "actual_w": 0,
+   "actual_l": 0,
+   "pf": 0.0,
+   "faab": 100
+  },
+  {
+   "team": "ryancrabbe",
+   "rank": 8,
+   "proj_w": 6.9,
+   "proj_l": 7.1,
+   "playoff_pct": 48.5,
+   "bye_pct": 12.6,
+   "title_pct": 7.0,
+   "is_user": false,
+   "actual_w": 0,
+   "actual_l": 0,
+   "pf": 0.0,
+   "faab": 100
+  },
+  {
+   "team": "Gujju8",
+   "rank": 9,
    "proj_w": 6.7,
    "proj_l": 7.3,
-   "playoff_pct": 39.4,
+   "playoff_pct": 44.9,
+   "bye_pct": 12.1,
+   "title_pct": 5.2,
+   "is_user": false,
+   "actual_w": 0,
+   "actual_l": 0,
+   "pf": 0.0,
+   "faab": 100
+  },
+  {
+   "team": "arabdhab",
+   "rank": 10,
+   "proj_w": 6.6,
+   "proj_l": 7.4,
+   "playoff_pct": 38.7,
    "bye_pct": 8.6,
-   "title_pct": 4.6,
+   "title_pct": 4.9,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 0,
@@ -213,8 +213,8 @@
    "rank": 11,
    "proj_w": 5.4,
    "proj_l": 8.6,
-   "playoff_pct": 22.0,
-   "bye_pct": 3.3,
+   "playoff_pct": 20.7,
+   "bye_pct": 3.1,
    "title_pct": 2.3,
    "is_user": false,
    "actual_w": 0,
@@ -227,9 +227,9 @@
    "rank": 12,
    "proj_w": 5.0,
    "proj_l": 9.0,
-   "playoff_pct": 12.8,
-   "bye_pct": 1.4,
-   "title_pct": 1.1,
+   "playoff_pct": 12.5,
+   "bye_pct": 1.5,
+   "title_pct": 1.0,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 0,
@@ -248,27 +248,27 @@
   },
   {
    "a": "zachschumann",
-   "a_winpct": 7,
-   "a_pts": 104.7,
+   "a_winpct": 0,
+   "a_pts": 103.7,
    "b": "Ulyssesbo",
-   "b_winpct": 93,
-   "b_pts": 118.3
+   "b_winpct": 100,
+   "b_pts": 110.5
   },
   {
    "a": "ak81",
    "a_winpct": 100,
-   "a_pts": 147.3,
+   "a_pts": 141.2,
    "b": "raymondfeltons",
    "b_winpct": 0,
    "b_pts": 120.9
   },
   {
    "a": "kisiluv",
-   "a_winpct": 97,
+   "a_winpct": 0,
    "a_pts": 91.0,
    "b": "KamarasNuts",
-   "b_winpct": 3,
-   "b_pts": 73.7
+   "b_winpct": 100,
+   "b_pts": 92.7
   },
   {
    "a": "arabdhab",
@@ -280,11 +280,11 @@
   },
   {
    "a": "uaintgotjuicehoeido",
-   "a_winpct": 87,
+   "a_winpct": 100,
    "a_pts": 112.8,
    "b": "ryancrabbe",
-   "b_winpct": 13,
-   "b_pts": 106.9
+   "b_winpct": 0,
+   "b_pts": 102.3
   }
  ],
  "top_performers": [
@@ -325,6 +325,12 @@
    "owner": "kisiluv"
   },
   {
+   "name": "Kenneth Walker III",
+   "team": "KC",
+   "pts": 30.4,
+   "owner": "KamarasNuts"
+  },
+  {
    "name": "Jalen Coker",
    "team": "CAR",
    "pts": 29.8,
@@ -353,41 +359,56 @@
    "team": "ATL",
    "pts": 27.3,
    "owner": "zachschumann"
-  },
-  {
-   "name": "Jaxson Dart",
-   "team": "NYG",
-   "pts": 26.6,
-   "owner": "ryancrabbe"
   }
  ],
  "injuries": [
   {
+   "team": "KC",
+   "player": "Cooper McDonald",
+   "status": "Questionable",
+   "type": "Knee",
+   "game": "DEN @ KC"
+  },
+  {
+   "team": "KC",
+   "player": "Mansoor Delane",
+   "status": "Out",
+   "type": "Shoulder",
+   "game": "DEN @ KC"
+  },
+  {
+   "team": "KC",
+   "player": "Josh Simmons",
+   "status": "Out",
+   "type": "Back",
+   "game": "DEN @ KC"
+  },
+  {
+   "team": "SEA",
+   "player": "Sam Darnold",
+   "status": "Doubtful",
+   "type": "Lower Body",
+   "game": "NE @ SEA"
+  },
+  {
    "team": "SEA",
    "player": "Ty Okada",
-   "status": "Questionable",
+   "status": "Out",
+   "type": "Hamstring",
+   "game": "NE @ SEA"
+  },
+  {
+   "team": "SEA",
+   "player": "Tory Horton",
+   "status": "Out",
    "type": "Hamstring",
    "game": "NE @ SEA"
   },
   {
    "team": "SEA",
    "player": "Nick Emmanwori",
-   "status": "Questionable",
+   "status": "Out",
    "type": "Ankle",
-   "game": "NE @ SEA"
-  },
-  {
-   "team": "SEA",
-   "player": "Tory Horton",
-   "status": "Questionable",
-   "type": "Hamstring",
-   "game": "NE @ SEA"
-  },
-  {
-   "team": "SEA",
-   "player": "Sam Darnold",
-   "status": "Doubtful",
-   "type": "Hip",
    "game": "NE @ SEA"
   },
   {
@@ -399,16 +420,16 @@
   },
   {
    "team": "NE",
-   "player": "TreVeyon Henderson",
-   "status": "Questionable",
-   "type": "Ankle",
+   "player": "Ben Brown",
+   "status": "Out",
+   "type": "Knee",
    "game": "NE @ SEA"
   },
   {
    "team": "NE",
-   "player": "Ben Brown",
-   "status": "Questionable",
-   "type": "Knee",
+   "player": "TreVeyon Henderson",
+   "status": "Out",
+   "type": "Ankle",
    "game": "NE @ SEA"
   },
   {
@@ -434,13 +455,6 @@
   },
   {
    "team": "LAR",
-   "player": "Myles Garrett",
-   "status": "Out",
-   "type": "Knee",
-   "game": "SF VS LAR"
-  },
-  {
-   "team": "LAR",
    "player": "Omar Speights",
    "status": "Questionable",
    "type": "Hip",
@@ -452,45 +466,10 @@
    "status": "Questionable",
    "type": "Shoulder",
    "game": "SF VS LAR"
-  },
-  {
-   "team": "LAR",
-   "player": "Kam Curl",
-   "status": "Questionable",
-   "type": "Ankle",
-   "game": "SF VS LAR"
-  },
-  {
-   "team": "LAR",
-   "player": "Keir Thomas II",
-   "status": "Injured Reserve",
-   "type": "Groin",
-   "game": "SF VS LAR"
   }
  ],
  "market": {
-  "lines": {
-   "KC": {
-    "opp": "DEN",
-    "spread": -2.5,
-    "total": 43.5,
-    "implied": 23.0,
-    "mult": 1.045,
-    "rb_mult": 1.045,
-    "wr_mult": 1.045,
-    "home": true
-   },
-   "DEN": {
-    "opp": "KC",
-    "spread": 2.5,
-    "total": 43.5,
-    "implied": 20.5,
-    "mult": 0.932,
-    "rb_mult": 0.932,
-    "wr_mult": 0.932,
-    "home": false
-   }
-  },
+  "lines": {},
   "week": 1
  },
  "tendencies": {
@@ -1452,6 +1431,81 @@
    "owners": [
     "raymondfeltons"
    ]
+  },
+  {
+   "game": "DEN @ KC",
+   "kind": "play",
+   "headline": "Bo Nix picked off on Broncos' opening drive",
+   "video_url": "https://www.espn.com/video/clip/_/id/49944792/bo-nix-picked-broncos-opening-drive",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/97c0cd62-580f-4b0c-a3cb-068a506537e9/97c0cd62-580f-4b0c-a3cb-068a506537e9.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "DEN @ KC",
+   "kind": "play",
+   "headline": "Pat Mahomes is fired up after awesome rushing TD",
+   "video_url": "https://www.espn.com/video/clip/_/id/49944852/pat-mahomes-fired-awesome-rushing-td",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/c9f8e312-cfa7-4058-be3e-2609fe28af39/c9f8e312-cfa7-4058-be3e-2609fe28af39.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "DEN @ KC",
+   "kind": "play",
+   "headline": "Bo Nix dots Evan Engram to put the Broncos on the board",
+   "video_url": "https://www.espn.com/video/clip/_/id/49944961/bo-nix-dots-evan-engram-put-broncos-board",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/b1e3bda8-4516-4f55-96f1-6ea897a8123b/b1e3bda8-4516-4f55-96f1-6ea897a8123b.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "DEN @ KC",
+   "kind": "play",
+   "headline": "Rashee Rice breaks multiple tackles en route to Chiefs TD",
+   "video_url": "https://www.espn.com/video/clip/_/id/49945388/rashee-rice-breaks-multiple-tackles-en-route-chiefs-td",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/41443ef7-0936-47b7-8127-36357855922f/41443ef7-0936-47b7-8127-36357855922f.jpg",
+   "players": [
+    "Rashee Rice"
+   ],
+   "owners": [
+    "zachschumann"
+   ]
+  },
+  {
+   "game": "DEN @ KC",
+   "kind": "play",
+   "headline": "Kenneth Walker III breaks free for an electric 60-yard Chiefs TD",
+   "video_url": "https://www.espn.com/video/clip/_/id/49945548/kenneth-walker-iii-breaks-free-electric-60-yard-chiefs-td",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/90ba324a-f6d3-4610-8977-296f78a215da/90ba324a-f6d3-4610-8977-296f78a215da.jpg",
+   "players": [
+    "Kenneth Walker"
+   ],
+   "owners": [
+    "KamarasNuts"
+   ]
+  },
+  {
+   "game": "DEN @ KC",
+   "kind": "play",
+   "headline": "Chiefs Kingdom and Taylor Swift are loving Travis Kelce's big 1st down",
+   "video_url": "https://www.espn.com/video/clip/_/id/49945880/chiefs-kingdom-taylor-swift-loving-travis-kelce-big-1st-down",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/3919aa7d-cec9-4567-b29e-aeb27f73d572/3919aa7d-cec9-4567-b29e-aeb27f73d572.jpg",
+   "players": [
+    "Travis Kelce"
+   ],
+   "owners": [
+    "uaintgotjuicehoeido"
+   ]
+  },
+  {
+   "game": "DEN @ KC",
+   "kind": "play",
+   "headline": "Bo Nix's out-of-control scramble results in a sac",
+   "video_url": "https://www.espn.com/video/clip/_/id/49946001/bo-nix-control-scramble-results-sac",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/f40fff6a-d7c8-4d64-b534-4d7a030cf992/f40fff6a-d7c8-4d64-b534-4d7a030cf992.jpg",
+   "players": [],
+   "owners": []
   },
   {
    "game": "GB @ MIN",
