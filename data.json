@@ -1071,5 +1071,257 @@
   ]
  },
  "highlights": [],
- "recaps": []
+ "recaps": [],
+ "weekly_awards": {
+  "week": 1,
+  "best_team": {
+   "team": "Gujju8",
+   "actual": 154.5,
+   "max": 154.5,
+   "efficiency": 100.0,
+   "matchup_id": 4,
+   "result": "W"
+  },
+  "worst_team": {
+   "team": "arabdhab",
+   "actual": 70.36,
+   "max": 104.16,
+   "efficiency": 67.5,
+   "matchup_id": 4,
+   "result": "L"
+  },
+  "highest_pts_in_loss": {
+   "team": "raymondfeltons",
+   "actual": 120.86,
+   "max": 122.06,
+   "efficiency": 99.0,
+   "matchup_id": 1,
+   "result": "L"
+  },
+  "lowest_pts_in_win": {
+   "team": "KamarasNuts",
+   "actual": 94.92,
+   "max": 100.72,
+   "efficiency": 94.2,
+   "matchup_id": 3,
+   "result": "W"
+  },
+  "most_efficient": {
+   "team": "Gujju8",
+   "actual": 154.5,
+   "max": 154.5,
+   "efficiency": 100.0,
+   "matchup_id": 4,
+   "result": "W"
+  },
+  "least_efficient": {
+   "team": "arabdhab",
+   "actual": 70.36,
+   "max": 104.16,
+   "efficiency": 67.5,
+   "matchup_id": 4,
+   "result": "L"
+  },
+  "efficiency_rank": [
+   {
+    "team": "Gujju8",
+    "actual": 154.5,
+    "max": 154.5,
+    "efficiency": 100.0,
+    "matchup_id": 4,
+    "result": "W"
+   },
+   {
+    "team": "ryancrabbe",
+    "actual": 102.3,
+    "max": 103.0,
+    "efficiency": 99.3,
+    "matchup_id": 6,
+    "result": "L"
+   },
+   {
+    "team": "raymondfeltons",
+    "actual": 120.86,
+    "max": 122.06,
+    "efficiency": 99.0,
+    "matchup_id": 1,
+    "result": "L"
+   },
+   {
+    "team": "uaintgotjuicehoeido",
+    "actual": 112.82,
+    "max": 115.42,
+    "efficiency": 97.7,
+    "matchup_id": 6,
+    "result": "W"
+   },
+   {
+    "team": "zachschumann",
+    "actual": 103.7,
+    "max": 107.5,
+    "efficiency": 96.5,
+    "matchup_id": 2,
+    "result": "L"
+   },
+   {
+    "team": "J2Money",
+    "actual": 98.72,
+    "max": 102.72,
+    "efficiency": 96.1,
+    "matchup_id": 5,
+    "result": "L"
+   },
+   {
+    "team": "KamarasNuts",
+    "actual": 94.92,
+    "max": 100.72,
+    "efficiency": 94.2,
+    "matchup_id": 3,
+    "result": "W"
+   },
+   {
+    "team": "ak81",
+    "actual": 141.16,
+    "max": 152.56,
+    "efficiency": 92.5,
+    "matchup_id": 1,
+    "result": "W"
+   },
+   {
+    "team": "Ulyssesbo",
+    "actual": 110.46,
+    "max": 123.06,
+    "efficiency": 89.8,
+    "matchup_id": 2,
+    "result": "W"
+   },
+   {
+    "team": "joshsandorra",
+    "actual": 145.96,
+    "max": 169.96,
+    "efficiency": 85.9,
+    "matchup_id": 5,
+    "result": "W"
+   },
+   {
+    "team": "kisiluv",
+    "actual": 90.96,
+    "max": 116.66,
+    "efficiency": 78.0,
+    "matchup_id": 3,
+    "result": "L"
+   },
+   {
+    "team": "arabdhab",
+    "actual": 70.36,
+    "max": 104.16,
+    "efficiency": 67.5,
+    "matchup_id": 4,
+    "result": "L"
+   }
+  ],
+  "players_of_week": {
+   "QB": {
+    "team": "joshsandorra",
+    "pid": "11560",
+    "name": "Caleb Williams",
+    "pos": "QB",
+    "nfl": "CHI",
+    "pts": 37.26,
+    "started": true
+   },
+   "RB": {
+    "team": "raymondfeltons",
+    "pid": "3198",
+    "name": "Derrick Henry",
+    "pos": "RB",
+    "nfl": "BAL",
+    "pts": 34.8,
+    "started": true
+   },
+   "WR": {
+    "team": "ryancrabbe",
+    "pid": "8167",
+    "name": "Christian Watson",
+    "pos": "WR",
+    "nfl": "GB",
+    "pts": 29.7,
+    "started": true
+   },
+   "TE": {
+    "team": "Gujju8",
+    "pid": "8131",
+    "name": "Isaiah Likely",
+    "pos": "TE",
+    "nfl": "NYG",
+    "pts": 23.8,
+    "started": true
+   },
+   "K": {
+    "team": "kisiluv",
+    "pid": "13545",
+    "name": "Trey Smack",
+    "pos": "K",
+    "nfl": "GB",
+    "pts": 12.0,
+    "started": true
+   },
+   "DEF": {
+    "team": "joshsandorra",
+    "pid": "PIT",
+    "name": "Pittsburgh Steelers",
+    "pos": "DEF",
+    "nfl": "PIT",
+    "pts": 19.0,
+    "started": true
+   }
+  },
+  "benchwarmers_of_week": {
+   "QB": {
+    "team": "ryancrabbe",
+    "pid": "4046",
+    "name": "Patrick Mahomes",
+    "pos": "QB",
+    "nfl": "KC",
+    "pts": 21.66,
+    "started": false
+   },
+   "RB": {
+    "team": "arabdhab",
+    "pid": "7594",
+    "name": "Chuba Hubbard",
+    "pos": "RB",
+    "nfl": "CAR",
+    "pts": 22.2,
+    "started": false
+   },
+   "WR": {
+    "team": "joshsandorra",
+    "pid": "11646",
+    "name": "Jalen Coker",
+    "pos": "WR",
+    "nfl": "CAR",
+    "pts": 29.8,
+    "started": false
+   },
+   "TE": {
+    "team": "uaintgotjuicehoeido",
+    "pid": "1466",
+    "name": "Travis Kelce",
+    "pos": "TE",
+    "nfl": "KC",
+    "pts": 8.6,
+    "started": false
+   },
+   "DEF": {
+    "team": "kisiluv",
+    "pid": "KC",
+    "name": "Kansas City Chiefs",
+    "pos": "DEF",
+    "nfl": "KC",
+    "pts": 14.0,
+    "started": false
+   }
+  }
+ }
 }
