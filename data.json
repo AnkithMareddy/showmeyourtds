@@ -1323,5 +1323,287 @@
     "started": false
    }
   }
+ },
+ "waivers": {
+  "as_of_week": 2,
+  "moves": [
+   {
+    "team": "Ulyssesbo",
+    "added": [
+     {
+      "name": "Juwan Johnson",
+      "pos": "TE"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Pat Freiermuth",
+      "pos": "TE"
+     }
+    ],
+    "faab": 0,
+    "type": "free_agent",
+    "created": 1789543046052
+   },
+   {
+    "team": "KamarasNuts",
+    "added": [
+     {
+      "name": "Dontayvion Wicks",
+      "pos": "WR"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Kyle Williams",
+      "pos": "WR"
+     }
+    ],
+    "faab": 0,
+    "type": "free_agent",
+    "created": 1789542931842
+   },
+   {
+    "team": "J2Money",
+    "added": [
+     {
+      "name": "Carolina Panthers",
+      "pos": "DEF"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Tennessee Titans",
+      "pos": "DEF"
+     }
+    ],
+    "faab": 0,
+    "type": "waiver",
+    "created": 1789541334432
+   },
+   {
+    "team": "uaintgotjuicehoeido",
+    "added": [
+     {
+      "name": "Green Bay Packers",
+      "pos": "DEF"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Tyrone Tracy",
+      "pos": "RB"
+     }
+    ],
+    "faab": 0,
+    "type": "waiver",
+    "created": 1789539808707
+   },
+   {
+    "team": "J2Money",
+    "added": [
+     {
+      "name": "Kalif Raymond",
+      "pos": "WR"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "De'Zhaun Stribling",
+      "pos": "WR"
+     }
+    ],
+    "faab": 4,
+    "type": "waiver",
+    "created": 1789538102143
+   },
+   {
+    "team": "raymondfeltons",
+    "added": [
+     {
+      "name": "New England Patriots",
+      "pos": "DEF"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Kaleb Johnson",
+      "pos": "RB"
+     }
+    ],
+    "faab": 2,
+    "type": "waiver",
+    "created": 1789537931108
+   },
+   {
+    "team": "zachschumann",
+    "added": [
+     {
+      "name": "Rashod Bateman",
+      "pos": "WR"
+     }
+    ],
+    "dropped": [],
+    "faab": 0,
+    "type": "waiver",
+    "created": 1789537466864
+   },
+   {
+    "team": "arabdhab",
+    "added": [
+     {
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Jacksonville Jaguars",
+      "pos": "DEF"
+     }
+    ],
+    "faab": 4,
+    "type": "waiver",
+    "created": 1789531201698
+   },
+   {
+    "team": "ryancrabbe",
+    "added": [
+     {
+      "name": "Emmett Johnson",
+      "pos": "RB"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Patrick Mahomes",
+      "pos": "QB"
+     }
+    ],
+    "faab": 4,
+    "type": "waiver",
+    "created": 1789525722946
+   },
+   {
+    "team": "kisiluv",
+    "added": [
+     {
+      "name": "Jordan Love",
+      "pos": "QB"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Justin Herbert",
+      "pos": "QB"
+     }
+    ],
+    "faab": 0,
+    "type": "waiver",
+    "created": 1789522891080
+   },
+   {
+    "team": "joshsandorra",
+    "added": [
+     {
+      "name": "Antonio Williams",
+      "pos": "WR"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Chris Bell",
+      "pos": "WR"
+     }
+    ],
+    "faab": 5,
+    "type": "waiver",
+    "created": 1789515038965
+   },
+   {
+    "team": "KamarasNuts",
+    "added": [
+     {
+      "name": "Kyle Williams",
+      "pos": "WR"
+     }
+    ],
+    "dropped": [],
+    "faab": 0,
+    "type": "waiver",
+    "created": 1789511520848
+   },
+   {
+    "team": "zachschumann",
+    "added": [
+     {
+      "name": "San Francisco 49ers",
+      "pos": "DEF"
+     }
+    ],
+    "dropped": [],
+    "faab": 12,
+    "type": "waiver",
+    "created": 1789511223992
+   },
+   {
+    "team": "raymondfeltons",
+    "added": [],
+    "dropped": [
+     {
+      "name": "Isiah Pacheco",
+      "pos": "RB"
+     }
+    ],
+    "faab": 0,
+    "type": "free_agent",
+    "created": 1789506665665
+   },
+   {
+    "team": "Ulyssesbo",
+    "added": [
+     {
+      "name": "Pat Freiermuth",
+      "pos": "TE"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Jalen Nailor",
+      "pos": "WR"
+     }
+    ],
+    "faab": 12,
+    "type": "waiver",
+    "created": 1789472582106
+   },
+   {
+    "team": "J2Money",
+    "added": [
+     {
+      "name": "Devaughn Vele",
+      "pos": "WR"
+     }
+    ],
+    "dropped": [],
+    "faab": 24,
+    "type": "waiver",
+    "created": 1789460039002
+   }
+  ],
+  "faab_left": {
+   "Gujju8": 100,
+   "kisiluv": 56,
+   "raymondfeltons": 97,
+   "zachschumann": 88,
+   "joshsandorra": 95,
+   "J2Money": 72,
+   "uaintgotjuicehoeido": 100,
+   "arabdhab": 96,
+   "Ulyssesbo": 88,
+   "ak81": 100,
+   "KamarasNuts": 96,
+   "ryancrabbe": 96
+  }
  }
 }
