@@ -4,6 +4,44 @@
  "week": 2,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
+ "generated_at": "2026-09-21T03:08:14Z",
+ "live_fetched_at": "2026-09-21T03:06:39Z",
+ "live_games": {
+  "final": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "JAX",
+   "LAC",
+   "LV",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SEA",
+   "SF",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "live": [
+   "IND",
+   "KC"
+  ]
+ },
  "generated_note": "Regenerated from live Sleeper/ESPN/DraftKings/nflverse data each pipeline run.",
  "teams": {
   "Gujju8": {
@@ -244,7 +282,267 @@
    "a_pts": 77.6,
    "b": "Ulyssesbo",
    "b_winpct": 51,
-   "b_pts": 76.9
+   "b_pts": 76.9,
+   "a_side": {
+    "live": 71.22,
+    "lineup": [
+     {
+      "pid": "11564",
+      "name": "Drake Maye",
+      "pos": "QB",
+      "nfl": "NE",
+      "pts": 8.02,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8138",
+      "name": "James Cook",
+      "pos": "RB",
+      "nfl": "BUF",
+      "pts": 20.4,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "6790",
+      "name": "D'Andre Swift",
+      "pos": "RB",
+      "nfl": "CHI",
+      "pts": 10.4,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8142",
+      "name": "Alec Pierce",
+      "pos": "WR",
+      "nfl": "IND",
+      "pts": 1.6,
+      "state": "live",
+      "inj": "Out",
+      "inj_type": "Heel"
+     },
+     {
+      "pid": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "nfl": "SF",
+      "pts": 4.9,
+      "state": "final",
+      "inj": "Doubtful",
+      "inj_type": "Ankle"
+     },
+     {
+      "pid": "5022",
+      "name": "Dallas Goedert",
+      "pos": "TE",
+      "nfl": "PHI",
+      "pts": 0.9,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Knee"
+     },
+     {
+      "pid": "11632",
+      "name": "Malik Nabers",
+      "pos": "WR",
+      "nfl": "NYG",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8259",
+      "name": "Cameron Dicker",
+      "pos": "K",
+      "nfl": "LAC",
+      "pts": 1.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "nfl": "CAR",
+      "pts": 24.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 7,
+    "in_play": 1,
+    "to_play": 1,
+    "alerts": [
+     {
+      "pid": "8142",
+      "name": "Alec Pierce",
+      "pos": "WR",
+      "nfl": "IND",
+      "pts": 1.6,
+      "state": "live",
+      "inj": "Out",
+      "inj_type": "Heel"
+     },
+     {
+      "pid": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "nfl": "SF",
+      "pts": 4.9,
+      "state": "final",
+      "inj": "Doubtful",
+      "inj_type": "Ankle"
+     },
+     {
+      "pid": "5022",
+      "name": "Dallas Goedert",
+      "pos": "TE",
+      "nfl": "PHI",
+      "pts": 0.9,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Knee"
+     }
+    ]
+   },
+   "b_side": {
+    "live": 76.94,
+    "lineup": [
+     {
+      "pid": "11566",
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "nfl": "WAS",
+      "pts": 14.74,
+      "state": "final",
+      "inj": "Doubtful",
+      "inj_type": "Elbow"
+     },
+     {
+      "pid": "9226",
+      "name": "De'Von Achane",
+      "pos": "RB",
+      "nfl": "MIA",
+      "pts": 10.8,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "5892",
+      "name": "David Montgomery",
+      "pos": "RB",
+      "nfl": "HOU",
+      "pts": 3.4,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "6794",
+      "name": "Justin Jefferson",
+      "pos": "WR",
+      "nfl": "MIN",
+      "pts": 7.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "2216",
+      "name": "Mike Evans",
+      "pos": "WR",
+      "nfl": "SF",
+      "pts": 6.9,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Hip"
+     },
+     {
+      "pid": "7002",
+      "name": "Juwan Johnson",
+      "pos": "TE",
+      "nfl": "NO",
+      "pts": 8.6,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "4199",
+      "name": "Aaron Jones",
+      "pos": "RB",
+      "nfl": "MIN",
+      "pts": 10.5,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": null
+     },
+     {
+      "pid": "11792",
+      "name": "Will Reichard",
+      "pos": "K",
+      "nfl": "MIN",
+      "pts": 10.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "BAL",
+      "name": "Baltimore Ravens",
+      "pos": "DEF",
+      "nfl": "BAL",
+      "pts": 5.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 9,
+    "in_play": 0,
+    "to_play": 0,
+    "alerts": [
+     {
+      "pid": "11566",
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "nfl": "WAS",
+      "pts": 14.74,
+      "state": "final",
+      "inj": "Doubtful",
+      "inj_type": "Elbow"
+     },
+     {
+      "pid": "2216",
+      "name": "Mike Evans",
+      "pos": "WR",
+      "nfl": "SF",
+      "pts": 6.9,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Hip"
+     },
+     {
+      "pid": "4199",
+      "name": "Aaron Jones",
+      "pos": "RB",
+      "nfl": "MIN",
+      "pts": 10.5,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": null
+     }
+    ]
+   }
   },
   {
    "a": "joshsandorra",
@@ -252,7 +550,227 @@
    "a_pts": 102.5,
    "b": "zachschumann",
    "b_winpct": 0,
-   "b_pts": 97.1
+   "b_pts": 97.1,
+   "a_side": {
+    "live": 102.52,
+    "lineup": [
+     {
+      "pid": "11560",
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "nfl": "CHI",
+      "pts": 7.72,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Hamstring"
+     },
+     {
+      "pid": "12527",
+      "name": "Ashton Jeanty",
+      "pos": "RB",
+      "nfl": "LV",
+      "pts": 8.3,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12490",
+      "name": "Bhayshul Tuten",
+      "pos": "RB",
+      "nfl": "JAX",
+      "pts": 13.2,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9488",
+      "name": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "nfl": "SEA",
+      "pts": 38.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11646",
+      "name": "Jalen Coker",
+      "pos": "WR",
+      "nfl": "CAR",
+      "pts": 10.6,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12517",
+      "name": "Colston Loveland",
+      "pos": "TE",
+      "nfl": "CHI",
+      "pts": 0.8,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "nfl": "WAS",
+      "pts": 3.9,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "nfl": "CIN",
+      "pts": 12.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "PIT",
+      "name": "Pittsburgh Steelers",
+      "pos": "DEF",
+      "nfl": "PIT",
+      "pts": 8.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 9,
+    "in_play": 0,
+    "to_play": 0,
+    "alerts": [
+     {
+      "pid": "11560",
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "nfl": "CHI",
+      "pts": 7.72,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Hamstring"
+     }
+    ]
+   },
+   "b_side": {
+    "live": 97.06,
+    "lineup": [
+     {
+      "pid": "3294",
+      "name": "Dak Prescott",
+      "pos": "QB",
+      "nfl": "DAL",
+      "pts": 29.76,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9509",
+      "name": "Bijan Robinson",
+      "pos": "RB",
+      "nfl": "ATL",
+      "pts": 9.6,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7611",
+      "name": "Rhamondre Stevenson",
+      "pos": "RB",
+      "nfl": "NE",
+      "pts": 3.1,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "4983",
+      "name": "DJ Moore",
+      "pos": "WR",
+      "nfl": "BUF",
+      "pts": -0.1,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Shoulder - AC Joint"
+     },
+     {
+      "pid": "6801",
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "nfl": "CIN",
+      "pts": 12.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "5001",
+      "name": "Dalton Schultz",
+      "pos": "TE",
+      "nfl": "HOU",
+      "pts": 20.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "10229",
+      "name": "Rashee Rice",
+      "pos": "WR",
+      "nfl": "KC",
+      "pts": 6.7,
+      "state": "live",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "nfl": "SEA",
+      "pts": 7.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "SF",
+      "name": "San Francisco 49ers",
+      "pos": "DEF",
+      "nfl": "SF",
+      "pts": 9.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 1,
+    "to_play": 0,
+    "alerts": [
+     {
+      "pid": "4983",
+      "name": "DJ Moore",
+      "pos": "WR",
+      "nfl": "BUF",
+      "pts": -0.1,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Shoulder - AC Joint"
+     }
+    ]
+   }
   },
   {
    "a": "ak81",
@@ -260,7 +778,205 @@
    "a_pts": 136.4,
    "b": "kisiluv",
    "b_winpct": 0,
-   "b_pts": 102.4
+   "b_pts": 102.4,
+   "a_side": {
+    "live": 136.42,
+    "lineup": [
+     {
+      "pid": "4984",
+      "name": "Josh Allen",
+      "pos": "QB",
+      "nfl": "BUF",
+      "pts": 40.82,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "6813",
+      "name": "Jonathan Taylor",
+      "pos": "RB",
+      "nfl": "IND",
+      "pts": 24.4,
+      "state": "live",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11584",
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "nfl": "TB",
+      "pts": 11.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "5872",
+      "name": "Deebo Samuel",
+      "pos": "WR",
+      "nfl": "SF",
+      "pts": 5.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11620",
+      "name": "Rome Odunze",
+      "pos": "WR",
+      "nfl": "CHI",
+      "pts": 5.8,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "10859",
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "nfl": "DET",
+      "pts": 14.2,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "2449",
+      "name": "Stefon Diggs",
+      "pos": "WR",
+      "nfl": "WAS",
+      "pts": 19.2,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "3451",
+      "name": "Ka'imi Fairbairn",
+      "pos": "K",
+      "nfl": "HOU",
+      "pts": 6.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "SEA",
+      "name": "Seattle Seahawks",
+      "pos": "DEF",
+      "nfl": "SEA",
+      "pts": 10.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 1,
+    "to_play": 0,
+    "alerts": []
+   },
+   "b_side": {
+    "live": 93.1,
+    "lineup": [
+     {
+      "pid": "6804",
+      "name": "Jordan Love",
+      "pos": "QB",
+      "nfl": "GB",
+      "pts": 13.8,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9221",
+      "name": "Jahmyr Gibbs",
+      "pos": "RB",
+      "nfl": "DET",
+      "pts": 20.3,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "13287",
+      "name": "Jeremiyah Love",
+      "pos": "RB",
+      "nfl": "ARI",
+      "pts": 6.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12501",
+      "name": "Matthew Golden",
+      "pos": "WR",
+      "nfl": "GB",
+      "pts": 7.8,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8146",
+      "name": "Garrett Wilson",
+      "pos": "WR",
+      "nfl": "NYJ",
+      "pts": 14.2,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "10236",
+      "name": "Dalton Kincaid",
+      "pos": "TE",
+      "nfl": "BUF",
+      "pts": 19.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "2133",
+      "name": "Davante Adams",
+      "pos": "WR",
+      "nfl": "LAR",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "nfl": "GB",
+      "pts": 8.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "LAC",
+      "name": "Los Angeles Chargers",
+      "pos": "DEF",
+      "nfl": "LAC",
+      "pts": 4.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 0,
+    "to_play": 1,
+    "alerts": []
+   }
   },
   {
    "a": "raymondfeltons",
@@ -268,7 +984,216 @@
    "a_pts": 109.3,
    "b": "KamarasNuts",
    "b_winpct": 12,
-   "b_pts": 99.2
+   "b_pts": 99.2,
+   "a_side": {
+    "live": 97.4,
+    "lineup": [
+     {
+      "pid": "4881",
+      "name": "Lamar Jackson",
+      "pos": "QB",
+      "nfl": "BAL",
+      "pts": 14.8,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7588",
+      "name": "Javonte Williams",
+      "pos": "RB",
+      "nfl": "DAL",
+      "pts": 6.5,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "3198",
+      "name": "Derrick Henry",
+      "pos": "RB",
+      "nfl": "BAL",
+      "pts": 16.2,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "nfl": "TB",
+      "pts": 7.3,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12526",
+      "name": "Tetairoa McMillan",
+      "pos": "WR",
+      "nfl": "CAR",
+      "pts": 12.6,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "4217",
+      "name": "George Kittle",
+      "pos": "TE",
+      "nfl": "SF",
+      "pts": 16.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9493",
+      "name": "Puka Nacua",
+      "pos": "WR",
+      "nfl": "LAR",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": null
+     },
+     {
+      "pid": "1945",
+      "name": "Chris Boswell",
+      "pos": "K",
+      "nfl": "PIT",
+      "pts": 4.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "NE",
+      "name": "New England Patriots",
+      "pos": "DEF",
+      "nfl": "NE",
+      "pts": 20.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 0,
+    "to_play": 1,
+    "alerts": [
+     {
+      "pid": "9493",
+      "name": "Puka Nacua",
+      "pos": "WR",
+      "nfl": "LAR",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": null
+     }
+    ]
+   },
+   "b_side": {
+    "live": 99.18,
+    "lineup": [
+     {
+      "pid": "8183",
+      "name": "Brock Purdy",
+      "pos": "QB",
+      "nfl": "SF",
+      "pts": 28.48,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12507",
+      "name": "Omarion Hampton",
+      "pos": "RB",
+      "nfl": "LAC",
+      "pts": 16.5,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8155",
+      "name": "Breece Hall",
+      "pos": "RB",
+      "nfl": "NYJ",
+      "pts": 11.7,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12514",
+      "name": "Emeka Egbuka",
+      "pos": "WR",
+      "nfl": "TB",
+      "pts": 8.8,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9486",
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "nfl": "PHI",
+      "pts": 9.9,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9484",
+      "name": "Tucker Kraft",
+      "pos": "TE",
+      "nfl": "GB",
+      "pts": 2.5,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8151",
+      "name": "Kenneth Walker",
+      "pos": "RB",
+      "nfl": "KC",
+      "pts": 13.9,
+      "state": "live",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "nfl": "SF",
+      "pts": 5.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "PHI",
+      "name": "Philadelphia Eagles",
+      "pos": "DEF",
+      "nfl": "PHI",
+      "pts": 5.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 1,
+    "to_play": 0,
+    "alerts": []
+   }
   },
   {
    "a": "arabdhab",
@@ -276,7 +1201,227 @@
    "a_pts": 84.1,
    "b": "ryancrabbe",
    "b_winpct": 100,
-   "b_pts": 127.9
+   "b_pts": 127.9,
+   "a_side": {
+    "live": 72.28,
+    "lineup": [
+     {
+      "pid": "6770",
+      "name": "Joe Burrow",
+      "pos": "QB",
+      "nfl": "CIN",
+      "pts": 16.18,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8150",
+      "name": "Kyren Williams",
+      "pos": "RB",
+      "nfl": "LAR",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "13286",
+      "name": "Jadarian Price",
+      "pos": "RB",
+      "nfl": "SEA",
+      "pts": 4.5,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Chest"
+     },
+     {
+      "pid": "7564",
+      "name": "Ja'Marr Chase",
+      "pos": "WR",
+      "nfl": "CIN",
+      "pts": 23.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8137",
+      "name": "George Pickens",
+      "pos": "WR",
+      "nfl": "DAL",
+      "pts": 7.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "5012",
+      "name": "Mark Andrews",
+      "pos": "TE",
+      "nfl": "BAL",
+      "pts": 7.9,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12519",
+      "name": "Luther Burden",
+      "pos": "WR",
+      "nfl": "CHI",
+      "pts": 4.7,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12711",
+      "name": "Tyler Loop",
+      "pos": "K",
+      "nfl": "BAL",
+      "pts": 5.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF",
+      "nfl": "TB",
+      "pts": 4.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 0,
+    "to_play": 1,
+    "alerts": [
+     {
+      "pid": "13286",
+      "name": "Jadarian Price",
+      "pos": "RB",
+      "nfl": "SEA",
+      "pts": 4.5,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Chest"
+     }
+    ]
+   },
+   "b_side": {
+    "live": 113.3,
+    "lineup": [
+     {
+      "pid": "12508",
+      "name": "Jaxson Dart",
+      "pos": "QB",
+      "nfl": "NYG",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "4866",
+      "name": "Saquon Barkley",
+      "pos": "RB",
+      "nfl": "PHI",
+      "pts": 2.5,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Shoulder"
+     },
+     {
+      "pid": "12512",
+      "name": "Quinshon Judkins",
+      "pos": "RB",
+      "nfl": "CLE",
+      "pts": 7.3,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "6786",
+      "name": "CeeDee Lamb",
+      "pos": "WR",
+      "nfl": "DAL",
+      "pts": 31.3,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7525",
+      "name": "DeVonta Smith",
+      "pos": "WR",
+      "nfl": "PHI",
+      "pts": 22.7,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12518",
+      "name": "Tyler Warren",
+      "pos": "TE",
+      "nfl": "IND",
+      "pts": 11.4,
+      "state": "live",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8167",
+      "name": "Christian Watson",
+      "pos": "WR",
+      "nfl": "GB",
+      "pts": 12.1,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11533",
+      "name": "Brandon Aubrey",
+      "pos": "K",
+      "nfl": "DAL",
+      "pts": 17.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "DEN",
+      "name": "Denver Broncos",
+      "pos": "DEF",
+      "nfl": "DEN",
+      "pts": 9.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 7,
+    "in_play": 1,
+    "to_play": 1,
+    "alerts": [
+     {
+      "pid": "4866",
+      "name": "Saquon Barkley",
+      "pos": "RB",
+      "nfl": "PHI",
+      "pts": 2.5,
+      "state": "final",
+      "inj": "Questionable",
+      "inj_type": "Shoulder"
+     }
+    ]
+   }
   },
   {
    "a": "Gujju8",
@@ -284,7 +1429,205 @@
    "a_pts": 95.7,
    "b": "uaintgotjuicehoeido",
    "b_winpct": 80,
-   "b_pts": 101.5
+   "b_pts": 101.5,
+   "a_side": {
+    "live": 89.96,
+    "lineup": [
+     {
+      "pid": "7523",
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "nfl": "JAX",
+      "pts": 6.16,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9224",
+      "name": "Chase Brown",
+      "pos": "RB",
+      "nfl": "CIN",
+      "pts": 9.7,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7543",
+      "name": "Travis Etienne",
+      "pos": "RB",
+      "nfl": "NO",
+      "pts": 6.1,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7547",
+      "name": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "nfl": "DET",
+      "pts": 30.7,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "9487",
+      "name": "Parker Washington",
+      "pos": "WR",
+      "nfl": "JAX",
+      "pts": 13.3,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8131",
+      "name": "Isaiah Likely",
+      "pos": "TE",
+      "nfl": "NYG",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "5927",
+      "name": "Terry McLaurin",
+      "pos": "WR",
+      "nfl": "WAS",
+      "pts": 6.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "nfl": "TB",
+      "pts": 16.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "JAX",
+      "name": "Jacksonville Jaguars",
+      "pos": "DEF",
+      "nfl": "JAX",
+      "pts": 2.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 0,
+    "to_play": 1,
+    "alerts": []
+   },
+   "b_side": {
+    "live": 92.46,
+    "lineup": [
+     {
+      "pid": "6904",
+      "name": "Jalen Hurts",
+      "pos": "QB",
+      "nfl": "PHI",
+      "pts": 16.16,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "4034",
+      "name": "Christian McCaffrey",
+      "pos": "RB",
+      "nfl": "SF",
+      "pts": 20.6,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12481",
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "nfl": "NYG",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "5846",
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "nfl": "PIT",
+      "pts": 4.7,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8148",
+      "name": "Jameson Williams",
+      "pos": "WR",
+      "nfl": "DET",
+      "pts": 4.3,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8130",
+      "name": "Trey McBride",
+      "pos": "TE",
+      "nfl": "ARI",
+      "pts": 14.1,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8144",
+      "name": "Chris Olave",
+      "pos": "WR",
+      "nfl": "NO",
+      "pts": 18.6,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11786",
+      "name": "Cam Little",
+      "pos": "K",
+      "nfl": "JAX",
+      "pts": 7.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "GB",
+      "name": "Green Bay Packers",
+      "pos": "DEF",
+      "nfl": "GB",
+      "pts": 7.0,
+      "state": "final",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 8,
+    "in_play": 0,
+    "to_play": 1,
+    "alerts": []
+   }
   }
  ],
  "top_performers": [
@@ -363,109 +1706,164 @@
  ],
  "injuries": [
   {
-   "team": "KC",
-   "player": "Cooper McDonald",
-   "status": "Injured Reserve",
-   "type": "Knee",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "KC",
-   "player": "Omarr Norman-Lott",
-   "status": "Out",
-   "type": "Knee - ACL",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "KC",
-   "player": "Jimmy Holiday",
-   "status": "Injured Reserve",
-   "type": "Undisclosed",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "KC",
-   "player": "Jeff Caldwell",
-   "status": "Injured Reserve",
-   "type": "Knee",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "KC",
-   "player": "Matt Waletzko",
-   "status": "Injured Reserve",
-   "type": "Undisclosed",
-   "game": "IND @ KC"
-  },
-  {
    "team": "IND",
    "player": "Alec Pierce",
    "status": "Out",
    "type": "Heel",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "IND",
-   "player": "Micheal Clemons",
-   "status": "Questionable",
-   "type": "Toe",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "IND",
-   "player": "Charvarius Ward",
-   "status": "Questionable",
-   "type": "Groin",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "IND",
-   "player": "DJ Giddens",
-   "status": "Out",
-   "type": "Knee",
-   "game": "IND @ KC"
-  },
-  {
-   "team": "ATL",
-   "player": "Jawaan Taylor",
-   "status": "Questionable",
-   "type": "Ribs",
-   "game": "CAR @ ATL"
-  },
-  {
-   "team": "ATL",
-   "player": "Brandon Dorlus",
-   "status": "Questionable",
-   "type": "Hand",
-   "game": "CAR @ ATL"
-  },
-  {
-   "team": "ATL",
-   "player": "Samson Ebukam",
-   "status": "Questionable",
-   "type": "Hamstring",
-   "game": "CAR @ ATL"
-  },
-  {
-   "team": "ATL",
-   "player": "A.J. Terrell Jr.",
-   "status": "Questionable",
-   "type": "Groin",
-   "game": "CAR @ ATL"
+   "game": "IND @ KC",
+   "owner": "J2Money"
   },
   {
    "team": "CAR",
    "player": "Jonathon Brooks",
    "status": "Questionable",
    "type": "Groin",
-   "game": "CAR @ ATL"
+   "game": "CAR @ ATL",
+   "owner": "ryancrabbe"
   },
   {
-   "team": "CAR",
-   "player": "Trevis Gipson",
+   "team": "CHI",
+   "player": "Caleb Williams",
    "status": "Questionable",
-   "type": "Head",
-   "game": "CAR @ ATL"
+   "type": "Hamstring",
+   "game": "MIN @ CHI",
+   "owner": "joshsandorra"
+  },
+  {
+   "team": "PHI",
+   "player": "Saquon Barkley",
+   "status": "Questionable",
+   "type": "Shoulder",
+   "game": "PHI @ TEN",
+   "owner": "ryancrabbe"
+  },
+  {
+   "team": "PHI",
+   "player": "Dallas Goedert",
+   "status": "Questionable",
+   "type": "Knee",
+   "game": "PHI @ TEN",
+   "owner": "J2Money"
+  },
+  {
+   "team": "PIT",
+   "player": "Rico Dowdle",
+   "status": "Questionable",
+   "type": "Toe",
+   "game": "PIT @ NE",
+   "owner": "joshsandorra"
+  },
+  {
+   "team": "GB",
+   "player": "Jayden Reed",
+   "status": "Questionable",
+   "type": "Neck",
+   "game": "GB @ NYJ",
+   "owner": "uaintgotjuicehoeido"
+  },
+  {
+   "team": "BAL",
+   "player": "Zay Flowers",
+   "status": "Out",
+   "type": "Hamstring",
+   "game": "NO @ BAL",
+   "owner": "Gujju8"
+  },
+  {
+   "team": "DEN",
+   "player": "J.K. Dobbins",
+   "status": "Questionable",
+   "type": "Hamstring",
+   "game": "JAX @ DEN",
+   "owner": "uaintgotjuicehoeido"
+  },
+  {
+   "team": "DEN",
+   "player": "RJ Harvey",
+   "status": "Out",
+   "type": "Hamstring",
+   "game": "JAX @ DEN",
+   "owner": "ak81"
+  },
+  {
+   "team": "LV",
+   "player": "Brock Bowers",
+   "status": "Out",
+   "type": "Knee - Meniscus",
+   "game": "LV @ LAC",
+   "owner": "zachschumann"
+  },
+  {
+   "team": "WSH",
+   "player": "Jayden Daniels",
+   "status": "Doubtful",
+   "type": "Elbow",
+   "game": "WSH @ DAL",
+   "owner": "Ulyssesbo"
+  },
+  {
+   "team": "SEA",
+   "player": "Jadarian Price",
+   "status": "Questionable",
+   "type": "Chest",
+   "game": "SEA @ ARI",
+   "owner": "arabdhab"
+  },
+  {
+   "team": "SF",
+   "player": "Mike Evans",
+   "status": "Questionable",
+   "type": "Hip",
+   "game": "MIA @ SF",
+   "owner": "Ulyssesbo"
+  },
+  {
+   "team": "SF",
+   "player": "Demarcus Robinson",
+   "status": "Doubtful",
+   "type": "Ankle",
+   "game": "MIA @ SF",
+   "owner": "J2Money"
+  },
+  {
+   "team": "MIA",
+   "player": "Caleb Douglas",
+   "status": "Questionable",
+   "type": "Ankle",
+   "game": "MIA @ SF",
+   "owner": "Ulyssesbo"
+  },
+  {
+   "team": "BUF",
+   "player": "DJ Moore",
+   "status": "Questionable",
+   "type": "Shoulder - AC Joint",
+   "game": "DET @ BUF",
+   "owner": "zachschumann"
+  },
+  {
+   "team": "KC",
+   "player": "Cooper McDonald",
+   "status": "Injured Reserve",
+   "type": "Knee",
+   "game": "IND @ KC",
+   "owner": null
+  },
+  {
+   "team": "KC",
+   "player": "Omarr Norman-Lott",
+   "status": "Out",
+   "type": "Knee - ACL",
+   "game": "IND @ KC",
+   "owner": null
+  },
+  {
+   "team": "KC",
+   "player": "Jimmy Holiday",
+   "status": "Injured Reserve",
+   "type": "Undisclosed",
+   "game": "IND @ KC",
+   "owner": null
   }
  ],
  "market": {
