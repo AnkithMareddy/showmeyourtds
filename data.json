@@ -71,11 +71,11 @@
   {
    "team": "ak81",
    "rank": 1,
-   "proj_w": 8.3,
-   "proj_l": 5.7,
-   "playoff_pct": 76.6,
-   "bye_pct": 38.8,
-   "title_pct": 16.2,
+   "proj_w": 8.2,
+   "proj_l": 5.8,
+   "playoff_pct": 76.7,
+   "bye_pct": 38.6,
+   "title_pct": 16.1,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 0,
@@ -88,8 +88,8 @@
    "proj_w": 8.3,
    "proj_l": 5.7,
    "playoff_pct": 73.5,
-   "bye_pct": 33.7,
-   "title_pct": 15.2,
+   "bye_pct": 34.3,
+   "title_pct": 16.0,
    "is_user": true,
    "actual_w": 1,
    "actual_l": 0,
@@ -99,11 +99,11 @@
   {
    "team": "joshsandorra",
    "rank": 3,
-   "proj_w": 7.8,
-   "proj_l": 6.2,
-   "playoff_pct": 65.3,
-   "bye_pct": 23.6,
-   "title_pct": 8.0,
+   "proj_w": 7.9,
+   "proj_l": 6.1,
+   "playoff_pct": 65.7,
+   "bye_pct": 24.1,
+   "title_pct": 7.6,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 0,
@@ -115,9 +115,9 @@
    "rank": 4,
    "proj_w": 7.4,
    "proj_l": 6.6,
-   "playoff_pct": 63.6,
-   "bye_pct": 20.5,
-   "title_pct": 15.0,
+   "playoff_pct": 63.3,
+   "bye_pct": 20.1,
+   "title_pct": 14.9,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 1,
@@ -129,9 +129,9 @@
    "rank": 5,
    "proj_w": 7.6,
    "proj_l": 6.4,
-   "playoff_pct": 57.0,
-   "bye_pct": 18.6,
-   "title_pct": 7.7,
+   "playoff_pct": 56.6,
+   "bye_pct": 17.8,
+   "title_pct": 7.5,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 0,
@@ -143,9 +143,9 @@
    "rank": 6,
    "proj_w": 7.2,
    "proj_l": 6.8,
-   "playoff_pct": 55.7,
-   "bye_pct": 17.2,
-   "title_pct": 8.4,
+   "playoff_pct": 55.1,
+   "bye_pct": 16.7,
+   "title_pct": 7.9,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 1,
@@ -153,11 +153,25 @@
    "faab": 96
   },
   {
-   "team": "Ulyssesbo",
+   "team": "zachschumann",
    "rank": 7,
-   "proj_w": 7.2,
-   "proj_l": 6.8,
+   "proj_w": 6.7,
+   "proj_l": 7.3,
    "playoff_pct": 47.9,
+   "bye_pct": 11.8,
+   "title_pct": 9.9,
+   "is_user": false,
+   "actual_w": 0,
+   "actual_l": 1,
+   "pf": 103.7,
+   "faab": 88
+  },
+  {
+   "team": "Ulyssesbo",
+   "rank": 8,
+   "proj_w": 7.1,
+   "proj_l": 6.9,
+   "playoff_pct": 47.8,
    "bye_pct": 13.3,
    "title_pct": 5.8,
    "is_user": false,
@@ -167,27 +181,13 @@
    "faab": 88
   },
   {
-   "team": "zachschumann",
-   "rank": 8,
-   "proj_w": 6.7,
-   "proj_l": 7.3,
-   "playoff_pct": 47.8,
-   "bye_pct": 11.4,
-   "title_pct": 9.5,
-   "is_user": false,
-   "actual_w": 0,
-   "actual_l": 1,
-   "pf": 103.7,
-   "faab": 88
-  },
-  {
    "team": "Gujju8",
    "rank": 9,
    "proj_w": 6.5,
    "proj_l": 7.5,
-   "playoff_pct": 41.1,
-   "bye_pct": 10.3,
-   "title_pct": 5.4,
+   "playoff_pct": 41.6,
+   "bye_pct": 10.6,
+   "title_pct": 5.1,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 0,
@@ -199,9 +199,9 @@
    "rank": 10,
    "proj_w": 6.1,
    "proj_l": 7.9,
-   "playoff_pct": 31.2,
-   "bye_pct": 6.5,
-   "title_pct": 4.0,
+   "playoff_pct": 32.8,
+   "bye_pct": 6.6,
+   "title_pct": 4.2,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 1,
@@ -213,9 +213,9 @@
    "rank": 11,
    "proj_w": 6.1,
    "proj_l": 7.9,
-   "playoff_pct": 29.7,
+   "playoff_pct": 28.8,
    "bye_pct": 5.0,
-   "title_pct": 3.9,
+   "title_pct": 4.1,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 1,
@@ -227,9 +227,9 @@
    "rank": 12,
    "proj_w": 4.9,
    "proj_l": 9.1,
-   "playoff_pct": 10.5,
-   "bye_pct": 1.1,
-   "title_pct": 1.0,
+   "playoff_pct": 10.3,
+   "bye_pct": 1.2,
+   "title_pct": 0.9,
    "is_user": false,
    "actual_w": 0,
    "actual_l": 1,
@@ -240,10 +240,10 @@
  "matchups": [
   {
    "a": "J2Money",
-   "a_winpct": 48,
-   "a_pts": 77.5,
+   "a_winpct": 49,
+   "a_pts": 77.6,
    "b": "Ulyssesbo",
-   "b_winpct": 52,
+   "b_winpct": 51,
    "b_pts": 76.9
   },
   {
@@ -257,17 +257,17 @@
   {
    "a": "ak81",
    "a_winpct": 100,
-   "a_pts": 128.7,
+   "a_pts": 136.4,
    "b": "kisiluv",
    "b_winpct": 0,
    "b_pts": 102.4
   },
   {
    "a": "raymondfeltons",
-   "a_winpct": 87,
+   "a_winpct": 88,
    "a_pts": 109.3,
    "b": "KamarasNuts",
-   "b_winpct": 13,
+   "b_winpct": 12,
    "b_pts": 99.2
   },
   {
@@ -276,7 +276,7 @@
    "a_pts": 84.1,
    "b": "ryancrabbe",
    "b_winpct": 100,
-   "b_pts": 125.4
+   "b_pts": 127.9
   },
   {
    "a": "Gujju8",
@@ -331,6 +331,12 @@
    "owner": "KamarasNuts"
   },
   {
+   "name": "Jonathan Taylor",
+   "team": "IND",
+   "pts": 24.4,
+   "owner": "ak81"
+  },
+  {
    "name": "Bryce Young",
    "team": "CAR",
    "pts": 24.1,
@@ -343,22 +349,16 @@
    "owner": "arabdhab"
   },
   {
+   "name": "Patrick Mahomes",
+   "team": "KC",
+   "pts": 22.7,
+   "owner": null
+  },
+  {
    "name": "DeVonta Smith",
    "team": "PHI",
    "pts": 22.7,
    "owner": "ryancrabbe"
-  },
-  {
-   "name": "Patrick Mahomes",
-   "team": "KC",
-   "pts": 22.4,
-   "owner": null
-  },
-  {
-   "name": "Tyler Shough",
-   "team": "NO",
-   "pts": 22.4,
-   "owner": null
   }
  ],
  "injuries": [
@@ -406,16 +406,23 @@
   },
   {
    "team": "IND",
-   "player": "DJ Giddens",
-   "status": "Out",
-   "type": "Knee",
+   "player": "Micheal Clemons",
+   "status": "Questionable",
+   "type": "Toe",
    "game": "IND @ KC"
   },
   {
    "team": "IND",
-   "player": "Ashton Dulin",
+   "player": "Charvarius Ward",
+   "status": "Questionable",
+   "type": "Groin",
+   "game": "IND @ KC"
+  },
+  {
+   "team": "IND",
+   "player": "DJ Giddens",
    "status": "Out",
-   "type": "Ankle",
+   "type": "Knee",
    "game": "IND @ KC"
   },
   {
@@ -458,13 +465,6 @@
    "player": "Trevis Gipson",
    "status": "Questionable",
    "type": "Head",
-   "game": "CAR @ ATL"
-  },
-  {
-   "team": "CAR",
-   "player": "Claudin Cherelus",
-   "status": "Questionable",
-   "type": "Shoulder",
    "game": "CAR @ ATL"
   }
  ],
@@ -2900,18 +2900,6 @@
    "source": null
   },
   {
-   "name": "A.J. Brown",
-   "team": "J2Money",
-   "pos": "WR",
-   "nfl_team": "NE",
-   "pid": "5859",
-   "current_status": "IR",
-   "expected_games_missed": 5.1,
-   "return_week": 6,
-   "note": "High-ankle sprain vs SEA, X-rays negative for fracture. Rapoport: out at least 4 weeks (next game isn't until Sept 20 vs PIT). Schultz range: 3-6 wks. Seen in walking boot postgame.",
-   "source": "Rapoport (NFL Network), Jordan Schultz"
-  },
-  {
    "name": "Ja'Kobi Lane",
    "team": "KamarasNuts",
    "pos": "WR",
@@ -2946,6 +2934,18 @@
    "return_week": null,
    "note": null,
    "source": null
+  },
+  {
+   "name": "A.J. Brown",
+   "team": "J2Money",
+   "pos": "WR",
+   "nfl_team": "NE",
+   "pid": "5859",
+   "current_status": "IR",
+   "expected_games_missed": 5.0,
+   "return_week": 6,
+   "note": "High-ankle sprain vs SEA, X-rays negative for fracture. Rapoport: out at least 4 weeks (next game isn't until Sept 20 vs PIT). Schultz range: 3-6 wks. Seen in walking boot postgame.",
+   "source": "Rapoport (NFL Network), Jordan Schultz"
   },
   {
    "name": "Nico Collins",
@@ -2984,18 +2984,6 @@
    "source": "news roundup"
   },
   {
-   "name": "George Kittle",
-   "team": "raymondfeltons",
-   "pos": "TE",
-   "nfl_team": "SF",
-   "pid": "4217",
-   "current_status": null,
-   "expected_games_missed": 4.0,
-   "return_week": null,
-   "note": null,
-   "source": null
-  },
-  {
    "name": "MarShawn Lloyd",
    "team": "zachschumann",
    "pos": "RB",
@@ -3003,6 +2991,18 @@
    "pid": "11581",
    "current_status": null,
    "expected_games_missed": 4.0,
+   "return_week": null,
+   "note": null,
+   "source": null
+  },
+  {
+   "name": "George Kittle",
+   "team": "raymondfeltons",
+   "pos": "TE",
+   "nfl_team": "SF",
+   "pid": "4217",
+   "current_status": null,
+   "expected_games_missed": 3.9,
    "return_week": null,
    "note": null,
    "source": null
@@ -3032,18 +3032,6 @@
    "source": null
   },
   {
-   "name": "Jonathon Brooks",
-   "team": "ryancrabbe",
-   "pos": "RB",
-   "nfl_team": "CAR",
-   "pid": "11583",
-   "current_status": "Questionable",
-   "expected_games_missed": 3.2,
-   "return_week": null,
-   "note": null,
-   "source": null
-  },
-  {
    "name": "Puka Nacua",
    "team": "raymondfeltons",
    "pos": "WR",
@@ -3056,11 +3044,23 @@
    "source": null
   },
   {
-   "name": "RJ Harvey",
-   "team": "ak81",
+   "name": "Jonathon Brooks",
+   "team": "ryancrabbe",
    "pos": "RB",
-   "nfl_team": "DEN",
-   "pid": "12489",
+   "nfl_team": "CAR",
+   "pid": "11583",
+   "current_status": "Questionable",
+   "expected_games_missed": 3.1,
+   "return_week": null,
+   "note": null,
+   "source": null
+  },
+  {
+   "name": "Rico Dowdle",
+   "team": "joshsandorra",
+   "pos": "RB",
+   "nfl_team": "PIT",
+   "pid": "7021",
    "current_status": "Out",
    "expected_games_missed": 3.0,
    "return_week": null,
@@ -3080,23 +3080,23 @@
    "source": "Patriots.com, Yahoo Sports"
   },
   {
-   "name": "Rico Dowdle",
-   "team": "joshsandorra",
+   "name": "J.K. Dobbins",
+   "team": "uaintgotjuicehoeido",
    "pos": "RB",
-   "nfl_team": "PIT",
-   "pid": "7021",
-   "current_status": "Out",
-   "expected_games_missed": 2.9,
+   "nfl_team": "DEN",
+   "pid": "6806",
+   "current_status": "Questionable",
+   "expected_games_missed": 3.0,
    "return_week": null,
    "note": null,
    "source": null
   },
   {
-   "name": "Jayden Reed",
-   "team": "uaintgotjuicehoeido",
-   "pos": "WR",
-   "nfl_team": "GB",
-   "pid": "10222",
+   "name": "RJ Harvey",
+   "team": "ak81",
+   "pos": "RB",
+   "nfl_team": "DEN",
+   "pid": "12489",
    "current_status": "Out",
    "expected_games_missed": 2.9,
    "return_week": null,
