@@ -4,8 +4,8 @@
  "week": 4,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-09-30T03:20:50Z",
- "live_fetched_at": "2026-09-30T03:18:59Z",
+ "generated_at": "2026-09-30T03:37:46Z",
+ "live_fetched_at": "2026-09-30T03:35:15Z",
  "live_games": {
   "final": [],
   "live": []
@@ -2606,24 +2606,6 @@
   {
    "game": "LAR @ DEN",
    "kind": "play",
-   "headline": "Matthew Stafford airs it out to Konata Mumpfield for a 48-yard TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50049686/matthew-stafford-airs-konata-mumpfield-48-yard-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/085762abb407446b8d00e3ed846a9d6b17/085762abb407446b8d00e3ed846a9d6b17.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "LAR @ DEN",
-   "kind": "play",
-   "headline": "Broncos crowd erupts as Hufanga gets pick-six on Stafford",
-   "video_url": "https://www.espn.com/video/clip/_/id/50049689/broncos-crowd-erupts-hufanga-gets-pick-six-stafford",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/4df2a4d0b2044069b38eb2c1400e83e420/4df2a4d0b2044069b38eb2c1400e83e420.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "LAR @ DEN",
-   "kind": "play",
    "headline": "Bo Nix reaches across the goal line for the go-ahead TD",
    "video_url": "https://www.espn.com/video/clip/_/id/50049746/bo-nix-reaches-goal-line-go-ahead-td",
    "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/a6e7ac22336a45dbb52d8c169db1c67022/a6e7ac22336a45dbb52d8c169db1c67022.jpg",
@@ -4350,6 +4332,11 @@
     "key": "healthy_world",
     "label": "Healthy World",
     "note": "Injury hazard down 60% - roughly nobody else getting hurt the rest of the way."
+   },
+   {
+    "key": "regression_case",
+    "label": "Regression Case",
+    "note": "Adversarial to us specifically: our own bust variance up 50%, a 1-in-5 weekly chance we start a mistake lineup, and every other team running 8% hot. Answers 'what if we're just unlucky and everyone else isn't.'"
    }
   ],
   "teams": [
@@ -4358,59 +4345,67 @@
     "playoff_pct": {
      "baseline": 73.0,
      "high_chaos": 72.0,
-     "healthy_world": 76.8
+     "healthy_world": 76.8,
+     "regression_case": 45.4
     },
     "title_pct": {
      "baseline": 14.9,
      "high_chaos": 14.2,
-     "healthy_world": 15.7
+     "healthy_world": 15.7,
+     "regression_case": 4.7
     },
-    "playoff_spread": 4.8,
-    "title_spread": 1.5
+    "playoff_spread": 31.4,
+    "title_spread": 11.0
    },
    {
     "team": "kisiluv",
     "playoff_pct": {
      "baseline": 71.9,
      "high_chaos": 67.8,
-     "healthy_world": 73.1
+     "healthy_world": 73.1,
+     "regression_case": 74.0
     },
     "title_pct": {
      "baseline": 18.7,
      "high_chaos": 16.1,
-     "healthy_world": 19.2
+     "healthy_world": 19.2,
+     "regression_case": 20.3
     },
-    "playoff_spread": 5.3,
-    "title_spread": 3.1
+    "playoff_spread": 6.2,
+    "title_spread": 4.2
    },
    {
     "team": "ak81",
     "playoff_pct": {
      "baseline": 67.2,
      "high_chaos": 66.0,
-     "healthy_world": 66.5
+     "healthy_world": 66.5,
+     "regression_case": 70.1
     },
     "title_pct": {
      "baseline": 12.8,
      "high_chaos": 12.7,
-     "healthy_world": 13.1
+     "healthy_world": 13.1,
+     "regression_case": 14.4
     },
-    "playoff_spread": 1.2,
-    "title_spread": 0.4
+    "playoff_spread": 4.1,
+    "title_spread": 1.7
    },
    {
     "team": "joshsandorra",
     "playoff_pct": {
      "baseline": 67.0,
      "high_chaos": 69.0,
-     "healthy_world": 67.2
+     "healthy_world": 67.2,
+     "regression_case": 69.2
     },
     "title_pct": {
      "baseline": 8.5,
      "high_chaos": 9.6,
-     "healthy_world": 7.8
+     "healthy_world": 7.8,
+     "regression_case": 8.8
     },
-    "playoff_spread": 2.0,
+    "playoff_spread": 2.2,
     "title_spread": 1.8
    },
    {
@@ -4418,44 +4413,50 @@
     "playoff_pct": {
      "baseline": 64.1,
      "high_chaos": 63.6,
-     "healthy_world": 62.3
+     "healthy_world": 62.3,
+     "regression_case": 68.2
     },
     "title_pct": {
      "baseline": 7.5,
      "high_chaos": 8.0,
-     "healthy_world": 7.1
+     "healthy_world": 7.1,
+     "regression_case": 8.6
     },
-    "playoff_spread": 1.8,
-    "title_spread": 0.9
+    "playoff_spread": 5.9,
+    "title_spread": 1.5
    },
    {
     "team": "zachschumann",
     "playoff_pct": {
      "baseline": 60.7,
      "high_chaos": 56.2,
-     "healthy_world": 58.1
+     "healthy_world": 58.1,
+     "regression_case": 64.7
     },
     "title_pct": {
      "baseline": 12.3,
      "high_chaos": 10.9,
-     "healthy_world": 11.6
+     "healthy_world": 11.6,
+     "regression_case": 14.7
     },
-    "playoff_spread": 4.5,
-    "title_spread": 1.4
+    "playoff_spread": 8.5,
+    "title_spread": 3.8
    },
    {
     "team": "KamarasNuts",
     "playoff_pct": {
      "baseline": 57.2,
      "high_chaos": 58.6,
-     "healthy_world": 59.3
+     "healthy_world": 59.3,
+     "regression_case": 59.9
     },
     "title_pct": {
      "baseline": 7.3,
      "high_chaos": 7.8,
-     "healthy_world": 8.0
+     "healthy_world": 8.0,
+     "regression_case": 8.0
     },
-    "playoff_spread": 2.1,
+    "playoff_spread": 2.7,
     "title_spread": 0.7
    },
    {
@@ -4463,42 +4464,48 @@
     "playoff_pct": {
      "baseline": 44.1,
      "high_chaos": 44.7,
-     "healthy_world": 44.1
+     "healthy_world": 44.1,
+     "regression_case": 47.5
     },
     "title_pct": {
      "baseline": 5.9,
      "high_chaos": 6.2,
-     "healthy_world": 5.9
+     "healthy_world": 5.9,
+     "regression_case": 6.5
     },
-    "playoff_spread": 0.6,
-    "title_spread": 0.3
+    "playoff_spread": 3.4,
+    "title_spread": 0.6
    },
    {
     "team": "arabdhab",
     "playoff_pct": {
      "baseline": 41.0,
      "high_chaos": 41.1,
-     "healthy_world": 38.8
+     "healthy_world": 38.8,
+     "regression_case": 43.2
     },
     "title_pct": {
      "baseline": 5.9,
      "high_chaos": 6.5,
-     "healthy_world": 5.3
+     "healthy_world": 5.3,
+     "regression_case": 7.1
     },
-    "playoff_spread": 2.3,
-    "title_spread": 1.2
+    "playoff_spread": 4.4,
+    "title_spread": 1.8
    },
    {
     "team": "raymondfeltons",
     "playoff_pct": {
      "baseline": 28.2,
      "high_chaos": 29.4,
-     "healthy_world": 30.4
+     "healthy_world": 30.4,
+     "regression_case": 29.6
     },
     "title_pct": {
      "baseline": 3.3,
      "high_chaos": 4.1,
-     "healthy_world": 3.5
+     "healthy_world": 3.5,
+     "regression_case": 3.6
     },
     "playoff_spread": 2.2,
     "title_spread": 0.8
@@ -4508,12 +4515,14 @@
     "playoff_pct": {
      "baseline": 24.9,
      "high_chaos": 30.0,
-     "healthy_world": 23.1
+     "healthy_world": 23.1,
+     "regression_case": 27.4
     },
     "title_pct": {
      "baseline": 2.8,
      "high_chaos": 3.8,
-     "healthy_world": 2.7
+     "healthy_world": 2.7,
+     "regression_case": 3.2
     },
     "playoff_spread": 6.9,
     "title_spread": 1.1
@@ -4523,12 +4532,14 @@
     "playoff_pct": {
      "baseline": 0.7,
      "high_chaos": 1.5,
-     "healthy_world": 0.5
+     "healthy_world": 0.5,
+     "regression_case": 0.8
     },
     "title_pct": {
      "baseline": 0.0,
      "high_chaos": 0.1,
-     "healthy_world": 0.0
+     "healthy_world": 0.0,
+     "regression_case": 0.1
     },
     "playoff_spread": 1.0,
     "title_spread": 0.1
