@@ -4,8 +4,8 @@
  "week": 4,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-10-01T18:00:30Z",
- "live_fetched_at": "2026-10-01T17:57:59Z",
+ "generated_at": "2026-10-01T18:22:04Z",
+ "live_fetched_at": "2026-10-01T18:19:37Z",
  "live_games": {
   "final": [],
   "live": []
@@ -80,9 +80,9 @@
    "rank": 1,
    "proj_w": 8.0,
    "proj_l": 6.0,
-   "playoff_pct": 76.4,
-   "bye_pct": 34.4,
-   "title_pct": 20.6,
+   "playoff_pct": 76.8,
+   "bye_pct": 34.8,
+   "title_pct": 21.1,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 2,
@@ -94,9 +94,9 @@
    "rank": 2,
    "proj_w": 8.2,
    "proj_l": 5.8,
-   "playoff_pct": 75.3,
-   "bye_pct": 34.3,
-   "title_pct": 14.7,
+   "playoff_pct": 75.0,
+   "bye_pct": 34.6,
+   "title_pct": 15.3,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 1,
@@ -108,9 +108,9 @@
    "rank": 3,
    "proj_w": 8.0,
    "proj_l": 6.0,
-   "playoff_pct": 67.9,
-   "bye_pct": 26.4,
-   "title_pct": 13.7,
+   "playoff_pct": 69.1,
+   "bye_pct": 26.8,
+   "title_pct": 14.1,
    "is_user": true,
    "actual_w": 2,
    "actual_l": 1,
@@ -120,10 +120,10 @@
   {
    "team": "joshsandorra",
    "rank": 4,
-   "proj_w": 8.0,
-   "proj_l": 6.0,
-   "playoff_pct": 65.5,
-   "bye_pct": 23.6,
+   "proj_w": 8.1,
+   "proj_l": 5.9,
+   "playoff_pct": 65.9,
+   "bye_pct": 23.7,
    "title_pct": 7.7,
    "is_user": false,
    "actual_w": 3,
@@ -132,27 +132,13 @@
    "faab": 86
   },
   {
-   "team": "zachschumann",
-   "rank": 5,
-   "proj_w": 7.3,
-   "proj_l": 6.7,
-   "playoff_pct": 59.7,
-   "bye_pct": 18.8,
-   "title_pct": 12.2,
-   "is_user": false,
-   "actual_w": 1,
-   "actual_l": 2,
-   "pf": 329.3,
-   "faab": 46
-  },
-  {
    "team": "KamarasNuts",
-   "rank": 6,
+   "rank": 5,
    "proj_w": 7.8,
    "proj_l": 6.2,
-   "playoff_pct": 58.7,
-   "bye_pct": 18.4,
-   "title_pct": 7.6,
+   "playoff_pct": 60.3,
+   "bye_pct": 18.7,
+   "title_pct": 8.2,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 1,
@@ -161,12 +147,12 @@
   },
   {
    "team": "ryancrabbe",
-   "rank": 7,
+   "rank": 6,
    "proj_w": 7.6,
    "proj_l": 6.4,
-   "playoff_pct": 58.7,
-   "bye_pct": 17.8,
-   "title_pct": 7.3,
+   "playoff_pct": 58.9,
+   "bye_pct": 18.3,
+   "title_pct": 6.7,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 1,
@@ -174,13 +160,27 @@
    "faab": 88
   },
   {
+   "team": "zachschumann",
+   "rank": 7,
+   "proj_w": 7.2,
+   "proj_l": 6.8,
+   "playoff_pct": 58.1,
+   "bye_pct": 17.0,
+   "title_pct": 11.4,
+   "is_user": false,
+   "actual_w": 1,
+   "actual_l": 2,
+   "pf": 329.3,
+   "faab": 46
+  },
+  {
    "team": "Gujju8",
    "rank": 8,
    "proj_w": 6.7,
    "proj_l": 7.3,
-   "playoff_pct": 44.1,
+   "playoff_pct": 44.3,
    "bye_pct": 10.3,
-   "title_pct": 6.1,
+   "title_pct": 5.9,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 2,
@@ -190,11 +190,11 @@
   {
    "team": "raymondfeltons",
    "rank": 9,
-   "proj_w": 6.4,
-   "proj_l": 7.6,
-   "playoff_pct": 35.1,
+   "proj_w": 6.3,
+   "proj_l": 7.7,
+   "playoff_pct": 33.8,
    "bye_pct": 6.6,
-   "title_pct": 4.6,
+   "title_pct": 4.5,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 2,
@@ -206,9 +206,9 @@
    "rank": 10,
    "proj_w": 6.5,
    "proj_l": 7.5,
-   "playoff_pct": 31.3,
-   "bye_pct": 5.3,
-   "title_pct": 3.8,
+   "playoff_pct": 30.8,
+   "bye_pct": 5.2,
+   "title_pct": 3.6,
    "is_user": false,
    "actual_w": 1,
    "actual_l": 2,
@@ -220,9 +220,9 @@
    "rank": 11,
    "proj_w": 6.5,
    "proj_l": 7.5,
-   "playoff_pct": 26.8,
-   "bye_pct": 4.3,
-   "title_pct": 1.7,
+   "playoff_pct": 26.5,
+   "bye_pct": 4.0,
+   "title_pct": 1.5,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 1,
@@ -232,8 +232,8 @@
   {
    "team": "J2Money",
    "rank": 12,
-   "proj_w": 3.1,
-   "proj_l": 10.9,
+   "proj_w": 3.0,
+   "proj_l": 11.0,
    "playoff_pct": 0.4,
    "bye_pct": 0.0,
    "title_pct": 0.0,
@@ -248,10 +248,10 @@
   {
    "a": "J2Money",
    "a_winpct": 25,
-   "a_pts": 70.9,
+   "a_pts": 70.8,
    "b": "raymondfeltons",
    "b_winpct": 75,
-   "b_pts": 87.7,
+   "b_pts": 87.6,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -465,11 +465,11 @@
   },
   {
    "a": "joshsandorra",
-   "a_winpct": 48,
-   "a_pts": 82.6,
+   "a_winpct": 47,
+   "a_pts": 82.4,
    "b": "Gujju8",
-   "b_winpct": 52,
-   "b_pts": 84.1,
+   "b_winpct": 53,
+   "b_pts": 84.3,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -704,7 +704,7 @@
   {
    "a": "zachschumann",
    "a_winpct": 64,
-   "a_pts": 93.1,
+   "a_pts": 93.3,
    "b": "KamarasNuts",
    "b_winpct": 36,
    "b_pts": 83.3,
@@ -920,11 +920,11 @@
   },
   {
    "a": "Ulyssesbo",
-   "a_winpct": 39,
-   "a_pts": 79.5,
+   "a_winpct": 38,
+   "a_pts": 79.6,
    "b": "ryancrabbe",
-   "b_winpct": 61,
-   "b_pts": 86.8,
+   "b_winpct": 62,
+   "b_pts": 87.0,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -1152,7 +1152,7 @@
    "a_pts": 88.2,
    "b": "arabdhab",
    "b_winpct": 46,
-   "b_pts": 85.8,
+   "b_pts": 86.0,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -1366,10 +1366,10 @@
   {
    "a": "kisiluv",
    "a_winpct": 56,
-   "a_pts": 95.2,
+   "a_pts": 95.7,
    "b": "uaintgotjuicehoeido",
    "b_winpct": 44,
-   "b_pts": 90.9,
+   "b_pts": 91.0,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -3630,20 +3630,8 @@
    "current_status": "PUP",
    "expected_games_missed": 5.7,
    "return_week": 6,
-   "note": "Reserve/PUP (ACL, Jan 17). Macdonald (9/23): Seattle will NOT open his practice window this week, 'closing in on a decision'. Eligible for Week 5 but needs a practice ramp first, so Week 5 is unlikely; Week 6 is the earliest realistic game. PFN analyst guesses Week 8 (opinion, not reported).",
-   "source": "Mike Macdonald via RotoWire (9/23), Pro Football Network"
-  },
-  {
-   "name": "Jonah Coleman",
-   "team": "KamarasNuts",
-   "pos": "RB",
-   "nfl_team": "DEN",
-   "pid": "13345",
-   "current_status": "IR",
-   "expected_games_missed": 4.9,
-   "return_week": null,
-   "note": null,
-   "source": null
+   "note": "Reserve/PUP (ACL, Jan 17). Seahawks opened his 21-day practice window 10/1 (designated to return). Eligible for Week 5, but coming off an ACL he likely needs more than a few practices first; Week 6 remains the most realistic first game, Week 5 possible.",
+   "source": "Seahawks via NBC Sports/PFT, FantasyPros (10/1)"
   },
   {
    "name": "A.J. Brown",
@@ -3658,12 +3646,12 @@
    "source": "Rapoport (NFL Network)"
   },
   {
-   "name": "Ja'Kobi Lane",
-   "team": "KamarasNuts",
+   "name": "Nico Collins",
+   "team": "ak81",
    "pos": "WR",
-   "nfl_team": "BAL",
-   "pid": "13293",
-   "current_status": "IR",
+   "nfl_team": "HOU",
+   "pid": "7569",
+   "current_status": "Questionable",
    "expected_games_missed": 4.8,
    "return_week": null,
    "note": null,
@@ -3682,18 +3670,6 @@
    "source": null
   },
   {
-   "name": "Nico Collins",
-   "team": "ak81",
-   "pos": "WR",
-   "nfl_team": "HOU",
-   "pid": "7569",
-   "current_status": "Questionable",
-   "expected_games_missed": 4.7,
-   "return_week": null,
-   "note": null,
-   "source": null
-  },
-  {
    "name": "Tank Dell",
    "team": "ryancrabbe",
    "pos": "WR",
@@ -3704,6 +3680,30 @@
    "return_week": null,
    "note": null,
    "source": null
+  },
+  {
+   "name": "Jordan Mason",
+   "team": "J2Money",
+   "pos": "RB",
+   "nfl_team": "MIN",
+   "pid": "8408",
+   "current_status": "IR",
+   "expected_games_missed": 4.3,
+   "return_week": 7,
+   "note": "IR (fractured thumb, surgery), placed 9/16 so must miss Weeks 2-5; Vikings are on bye Week 6, so Week 7 is the earliest game. O'Connell expects him back at the short-term IR minimum. Aaron Jones is Minnesota's lead back - Mason projects as backup/change-of-pace once healthy.",
+   "source": "NBC Sports, NFL.com, Kevin O'Connell, Ian Rapoport"
+  },
+  {
+   "name": "Jonah Coleman",
+   "team": "KamarasNuts",
+   "pos": "RB",
+   "nfl_team": "DEN",
+   "pid": "13345",
+   "current_status": "IR",
+   "expected_games_missed": 4.2,
+   "return_week": 7,
+   "note": "IR 9/26 with a high-ankle sprain suffered Week 2. Must miss at least 4 games; Week 7 vs ARI is the earliest return.",
+   "source": "NBC Sports/PFT, Mile High Sports"
   },
   {
    "name": "George Kittle",
@@ -3730,18 +3730,6 @@
    "source": "Adam Schefter & Ian Rapoport via ESPN, ChicagoBears.com"
   },
   {
-   "name": "Jayden Daniels",
-   "team": "Ulyssesbo",
-   "pos": "QB",
-   "nfl_team": "WAS",
-   "pid": "11566",
-   "current_status": "Questionable",
-   "expected_games_missed": 3.1,
-   "return_week": 6,
-   "note": "Dislocated left elbow in Week 2 vs DAL. No surgery, no IR (GM Adam Peters, 9/25). Rapoport (9/27): expected back within three weeks, playing in a brace. Week 5 possible, Week 6 most likely.",
-   "source": "Ian Rapoport (NFL Network), Adam Peters, CBS Sports"
-  },
-  {
    "name": "Jordyn Tyson",
    "team": "kisiluv",
    "pos": "WR",
@@ -3752,6 +3740,30 @@
    "return_week": 6,
    "note": "IR (designated to return), right hamstring strain suffered ~Aug 18; NFL Network reported ~2 months out, and Saints are being cautious given his 4th hamstring injury. Week 5 is the earliest eligible date; ~8 weeks points to Week 6.",
    "source": "NFL Network via NFL.com, 4for4"
+  },
+  {
+   "name": "Ja'Kobi Lane",
+   "team": "KamarasNuts",
+   "pos": "WR",
+   "nfl_team": "BAL",
+   "pid": "13293",
+   "current_status": "IR",
+   "expected_games_missed": 3.1,
+   "return_week": 6,
+   "note": "Short-term IR (fractured wrist, surgery) after Week 1. Eligible to return Week 6.",
+   "source": "ESPN, NBC Sports (9/16)"
+  },
+  {
+   "name": "Jayden Daniels",
+   "team": "Ulyssesbo",
+   "pos": "QB",
+   "nfl_team": "WAS",
+   "pid": "11566",
+   "current_status": "Questionable",
+   "expected_games_missed": 3.0,
+   "return_week": 6,
+   "note": "Dislocated left elbow in Week 2 vs DAL. No surgery, no IR (GM Adam Peters, 9/25). Rapoport (9/27): expected back within three weeks, playing in a brace. Week 5 possible, Week 6 most likely.",
+   "source": "Ian Rapoport (NFL Network), Adam Peters, CBS Sports"
   },
   {
    "name": "Malik Nabers",
@@ -3778,37 +3790,13 @@
    "source": null
   },
   {
-   "name": "Jordan Mason",
-   "team": "J2Money",
-   "pos": "RB",
-   "nfl_team": "MIN",
-   "pid": "8408",
-   "current_status": "IR",
-   "expected_games_missed": 2.6,
-   "return_week": 5,
-   "note": "IR, fractured thumb, had surgery. Coach O'Connell: expects him back at the 4-week IR minimum, not longer. Aaron Jones is now Minnesota's clear lead back - Mason projects as a backup/change-of-pace role even once healthy, not a lead job.",
-   "source": "ESPN, Kevin O'Connell"
-  },
-  {
    "name": "Puka Nacua",
    "team": "raymondfeltons",
    "pos": "WR",
    "nfl_team": "LAR",
    "pid": "9493",
    "current_status": "Questionable",
-   "expected_games_missed": 2.6,
-   "return_week": null,
-   "note": null,
-   "source": null
-  },
-  {
-   "name": "Breece Hall",
-   "team": "KamarasNuts",
-   "pos": "RB",
-   "nfl_team": "NYJ",
-   "pid": "8155",
-   "current_status": "Doubtful",
-   "expected_games_missed": 2.5,
+   "expected_games_missed": 2.7,
    "return_week": null,
    "note": null,
    "source": null
@@ -3820,10 +3808,22 @@
    "nfl_team": "NO",
    "pid": "7543",
    "current_status": "Out",
-   "expected_games_missed": 2.5,
+   "expected_games_missed": 2.6,
    "return_week": 5,
    "note": "Hamstring injury in Week 3 loss to LV. Kellen Moore (Mon): will have 'time lost', no timeline given; unclear if IR. Out for Week 4 (MNF at ATL) assumed; if he goes to IR, bump to Week 8.",
    "source": "Kellen Moore via ESPN, NBC Sports (PFT)"
+  },
+  {
+   "name": "Breece Hall",
+   "team": "KamarasNuts",
+   "pos": "RB",
+   "nfl_team": "NYJ",
+   "pid": "8155",
+   "current_status": "Doubtful",
+   "expected_games_missed": 2.5,
+   "return_week": 5,
+   "note": "Thigh/quad injury, left Week 3 loss to DET early. MRI showed it's less significant than feared; team calls him week-to-week. Listed doubtful for Week 4 at CHI; Braelon Allen leads the backfield in the meantime. No IR.",
+   "source": "NBC Sports, Yahoo Sports (9/28)"
   },
   {
    "name": "J.K. Dobbins",
@@ -3838,12 +3838,12 @@
    "source": null
   },
   {
-   "name": "Chuba Hubbard",
-   "team": "arabdhab",
-   "pos": "RB",
-   "nfl_team": "CAR",
-   "pid": "7594",
-   "current_status": null,
+   "name": "Adonai Mitchell",
+   "team": "J2Money",
+   "pos": "WR",
+   "nfl_team": "NYJ",
+   "pid": "11625",
+   "current_status": "Doubtful",
    "expected_games_missed": 2.3,
    "return_week": null,
    "note": null,
@@ -3877,206 +3877,206 @@
    {
     "team": "kisiluv",
     "playoff_pct": {
-     "baseline": 76.4,
-     "high_chaos": 72.3,
-     "healthy_world": 77.8,
-     "regression_case": 79.2
+     "baseline": 76.8,
+     "high_chaos": 71.7,
+     "healthy_world": 78.3,
+     "regression_case": 77.5
     },
     "title_pct": {
-     "baseline": 20.6,
-     "high_chaos": 18.8,
-     "healthy_world": 20.7,
-     "regression_case": 22.9
+     "baseline": 21.1,
+     "high_chaos": 17.6,
+     "healthy_world": 21.1,
+     "regression_case": 22.7
     },
-    "playoff_spread": 6.9,
-    "title_spread": 4.1
+    "playoff_spread": 6.6,
+    "title_spread": 5.1
    },
    {
     "team": "ak81",
     "playoff_pct": {
-     "baseline": 75.3,
-     "high_chaos": 72.6,
-     "healthy_world": 74.4,
-     "regression_case": 77.0
+     "baseline": 75.0,
+     "high_chaos": 72.8,
+     "healthy_world": 75.1,
+     "regression_case": 77.4
     },
     "title_pct": {
-     "baseline": 14.7,
+     "baseline": 15.3,
      "high_chaos": 14.5,
-     "healthy_world": 15.4,
-     "regression_case": 16.5
+     "healthy_world": 15.0,
+     "regression_case": 17.1
     },
-    "playoff_spread": 4.4,
-    "title_spread": 2.0
+    "playoff_spread": 4.6,
+    "title_spread": 2.6
    },
    {
     "team": "uaintgotjuicehoeido",
     "playoff_pct": {
-     "baseline": 67.9,
-     "high_chaos": 65.8,
-     "healthy_world": 71.7,
-     "regression_case": 38.9
+     "baseline": 69.1,
+     "high_chaos": 67.2,
+     "healthy_world": 72.7,
+     "regression_case": 40.6
     },
     "title_pct": {
-     "baseline": 13.7,
-     "high_chaos": 12.8,
+     "baseline": 14.1,
+     "high_chaos": 13.4,
      "healthy_world": 14.6,
-     "regression_case": 4.0
+     "regression_case": 3.8
     },
-    "playoff_spread": 32.8,
-    "title_spread": 10.6
+    "playoff_spread": 32.1,
+    "title_spread": 10.8
    },
    {
     "team": "joshsandorra",
     "playoff_pct": {
-     "baseline": 65.5,
-     "high_chaos": 69.5,
-     "healthy_world": 65.1,
-     "regression_case": 67.4
+     "baseline": 65.9,
+     "high_chaos": 67.7,
+     "healthy_world": 65.0,
+     "regression_case": 68.0
     },
     "title_pct": {
      "baseline": 7.7,
-     "high_chaos": 9.6,
-     "healthy_world": 7.5,
-     "regression_case": 8.4
+     "high_chaos": 9.1,
+     "healthy_world": 7.8,
+     "regression_case": 8.7
     },
-    "playoff_spread": 4.4,
-    "title_spread": 2.1
-   },
-   {
-    "team": "zachschumann",
-    "playoff_pct": {
-     "baseline": 59.7,
-     "high_chaos": 54.6,
-     "healthy_world": 59.1,
-     "regression_case": 62.6
-    },
-    "title_pct": {
-     "baseline": 12.2,
-     "high_chaos": 10.0,
-     "healthy_world": 12.4,
-     "regression_case": 12.9
-    },
-    "playoff_spread": 8.0,
-    "title_spread": 2.9
+    "playoff_spread": 3.0,
+    "title_spread": 1.4
    },
    {
     "team": "KamarasNuts",
     "playoff_pct": {
-     "baseline": 58.7,
+     "baseline": 60.3,
      "high_chaos": 60.1,
-     "healthy_world": 60.8,
+     "healthy_world": 60.7,
      "regression_case": 62.1
     },
     "title_pct": {
-     "baseline": 7.6,
-     "high_chaos": 9.2,
-     "healthy_world": 8.0,
-     "regression_case": 8.4
+     "baseline": 8.2,
+     "high_chaos": 9.1,
+     "healthy_world": 8.1,
+     "regression_case": 8.1
     },
-    "playoff_spread": 3.4,
-    "title_spread": 1.6
+    "playoff_spread": 2.0,
+    "title_spread": 1.0
    },
    {
     "team": "ryancrabbe",
     "playoff_pct": {
-     "baseline": 58.7,
-     "high_chaos": 58.5,
-     "healthy_world": 57.4,
+     "baseline": 58.9,
+     "high_chaos": 60.1,
+     "healthy_world": 56.9,
+     "regression_case": 63.0
+    },
+    "title_pct": {
+     "baseline": 6.7,
+     "high_chaos": 8.1,
+     "healthy_world": 7.1,
+     "regression_case": 7.7
+    },
+    "playoff_spread": 6.1,
+    "title_spread": 1.4
+   },
+   {
+    "team": "zachschumann",
+    "playoff_pct": {
+     "baseline": 58.1,
+     "high_chaos": 55.2,
+     "healthy_world": 59.6,
      "regression_case": 61.9
     },
     "title_pct": {
-     "baseline": 7.3,
-     "high_chaos": 7.7,
-     "healthy_world": 6.6,
-     "regression_case": 8.3
+     "baseline": 11.4,
+     "high_chaos": 10.5,
+     "healthy_world": 11.5,
+     "regression_case": 13.4
     },
-    "playoff_spread": 4.5,
-    "title_spread": 1.7
+    "playoff_spread": 6.7,
+    "title_spread": 2.9
    },
    {
     "team": "Gujju8",
     "playoff_pct": {
-     "baseline": 44.1,
-     "high_chaos": 44.2,
-     "healthy_world": 41.5,
-     "regression_case": 48.0
+     "baseline": 44.3,
+     "high_chaos": 43.9,
+     "healthy_world": 40.0,
+     "regression_case": 46.2
     },
     "title_pct": {
-     "baseline": 6.1,
+     "baseline": 5.9,
      "high_chaos": 5.9,
-     "healthy_world": 5.5,
-     "regression_case": 7.0
+     "healthy_world": 5.1,
+     "regression_case": 6.5
     },
-    "playoff_spread": 6.5,
-    "title_spread": 1.5
+    "playoff_spread": 6.2,
+    "title_spread": 1.4
    },
    {
     "team": "raymondfeltons",
     "playoff_pct": {
-     "baseline": 35.1,
-     "high_chaos": 36.3,
-     "healthy_world": 39.4,
+     "baseline": 33.8,
+     "high_chaos": 35.5,
+     "healthy_world": 39.3,
      "regression_case": 36.9
     },
     "title_pct": {
-     "baseline": 4.6,
-     "high_chaos": 4.4,
-     "healthy_world": 4.6,
+     "baseline": 4.5,
+     "high_chaos": 4.9,
+     "healthy_world": 4.8,
      "regression_case": 5.1
     },
-    "playoff_spread": 4.3,
-    "title_spread": 0.7
+    "playoff_spread": 5.5,
+    "title_spread": 0.6
    },
    {
     "team": "arabdhab",
     "playoff_pct": {
-     "baseline": 31.3,
-     "high_chaos": 32.3,
-     "healthy_world": 29.9,
-     "regression_case": 34.3
+     "baseline": 30.8,
+     "high_chaos": 32.2,
+     "healthy_world": 29.0,
+     "regression_case": 35.1
     },
     "title_pct": {
-     "baseline": 3.8,
-     "high_chaos": 4.4,
-     "healthy_world": 3.2,
-     "regression_case": 4.4
+     "baseline": 3.6,
+     "high_chaos": 4.3,
+     "healthy_world": 3.4,
+     "regression_case": 4.7
     },
-    "playoff_spread": 4.4,
-    "title_spread": 1.2
+    "playoff_spread": 6.1,
+    "title_spread": 1.3
    },
    {
     "team": "Ulyssesbo",
     "playoff_pct": {
-     "baseline": 26.8,
-     "high_chaos": 32.7,
-     "healthy_world": 22.7,
-     "regression_case": 30.9
+     "baseline": 26.5,
+     "high_chaos": 32.4,
+     "healthy_world": 23.0,
+     "regression_case": 30.6
     },
     "title_pct": {
-     "baseline": 1.7,
-     "high_chaos": 2.5,
-     "healthy_world": 1.5,
-     "regression_case": 2.0
+     "baseline": 1.5,
+     "high_chaos": 2.6,
+     "healthy_world": 1.4,
+     "regression_case": 2.1
     },
-    "playoff_spread": 10.0,
-    "title_spread": 1.0
+    "playoff_spread": 9.4,
+    "title_spread": 1.2
    },
    {
     "team": "J2Money",
     "playoff_pct": {
      "baseline": 0.4,
-     "high_chaos": 1.2,
-     "healthy_world": 0.3,
+     "high_chaos": 1.1,
+     "healthy_world": 0.4,
      "regression_case": 0.7
     },
     "title_pct": {
      "baseline": 0.0,
-     "high_chaos": 0.1,
+     "high_chaos": 0.0,
      "healthy_world": 0.0,
      "regression_case": 0.0
     },
-    "playoff_spread": 0.9,
-    "title_spread": 0.1
+    "playoff_spread": 0.7,
+    "title_spread": 0.0
    }
   ]
  },
@@ -4087,8 +4087,8 @@
      "team": "uaintgotjuicehoeido",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 67.9,
-     "title_pct": 13.7,
+     "playoff_pct": 69.1,
+     "title_pct": 14.1,
      "actual_w": 2,
      "actual_l": 1
     },
@@ -4096,8 +4096,8 @@
      "team": "ryancrabbe",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 58.7,
-     "title_pct": 7.3,
+     "playoff_pct": 58.9,
+     "title_pct": 6.7,
      "actual_w": 2,
      "actual_l": 1
     },
@@ -4105,8 +4105,8 @@
      "team": "Gujju8",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 44.1,
-     "title_pct": 6.1,
+     "playoff_pct": 44.3,
+     "title_pct": 5.9,
      "actual_w": 1,
      "actual_l": 2
     },
@@ -4114,8 +4114,8 @@
      "team": "arabdhab",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 31.3,
-     "title_pct": 3.8,
+     "playoff_pct": 30.8,
+     "title_pct": 3.6,
      "actual_w": 1,
      "actual_l": 2
     }
@@ -4145,7 +4145,7 @@
      "team": "joshsandorra",
      "pod_w": 3,
      "pod_l": 0,
-     "playoff_pct": 65.5,
+     "playoff_pct": 65.9,
      "title_pct": 7.7,
      "actual_w": 3,
      "actual_l": 0
@@ -4154,8 +4154,8 @@
      "team": "Ulyssesbo",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 26.8,
-     "title_pct": 1.7,
+     "playoff_pct": 26.5,
+     "title_pct": 1.5,
      "actual_w": 2,
      "actual_l": 1
     },
@@ -4163,8 +4163,8 @@
      "team": "zachschumann",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 59.7,
-     "title_pct": 12.2,
+     "playoff_pct": 58.1,
+     "title_pct": 11.4,
      "actual_w": 1,
      "actual_l": 2
     },
@@ -4203,8 +4203,8 @@
      "team": "ak81",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 75.3,
-     "title_pct": 14.7,
+     "playoff_pct": 75.0,
+     "title_pct": 15.3,
      "actual_w": 2,
      "actual_l": 1
     },
@@ -4212,8 +4212,8 @@
      "team": "KamarasNuts",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 58.7,
-     "title_pct": 7.6,
+     "playoff_pct": 60.3,
+     "title_pct": 8.2,
      "actual_w": 2,
      "actual_l": 1
     },
@@ -4221,8 +4221,8 @@
      "team": "kisiluv",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 76.4,
-     "title_pct": 20.6,
+     "playoff_pct": 76.8,
+     "title_pct": 21.1,
      "actual_w": 1,
      "actual_l": 2
     },
@@ -4230,8 +4230,8 @@
      "team": "raymondfeltons",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 35.1,
-     "title_pct": 4.6,
+     "playoff_pct": 33.8,
+     "title_pct": 4.5,
      "actual_w": 1,
      "actual_l": 2
     }
